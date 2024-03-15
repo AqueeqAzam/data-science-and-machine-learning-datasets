@@ -1,12 +1,22 @@
 Name,Age,Occupation,Salery,Gender,Experience
-Tyson,26,ML Engineer,50000,M,2yrs
+Tyson,26,ML Engineer,50k,M,2yrs
 jack,21,Gamer,12k,M,3yrs
 Raj,27,Programmer,15,M,1yrs
-Manish,34,App Developer,18k,12yrs
-Prity,25,Doctor.20k,11yrs
-Steave,55,CEO,200k,5yrs
-Hasnain,3,Engineer,50k,22yrs
-Pardeep,27,Data Scientish,22k,8yrs
-Aggarwal,35,Web Programmer,35k,9yrs
+Manish,34,App Developer,18k,M,12yrs
+Prity,25,Doctor,20k,F,11yrs
+Priya,55,CEO,200k,F,5yrs
+Hasnain,3,Engineer,50k,M,22yrs
+Pardeep,27,Data Scientish,22k,M,8yrs
+Aggarwal,35,Web Programmer,35k,M,9yrs
+Sandeep,33,App Developer,28k,M,5yrs
+Bushra,25,Dantist,27k,F,3yrs
+Prem,45,AI Expert,100k,M,6yrs
+Ajay,19,ML Engineer,55k,M,5yrs
+Dimple,26,You tuber,22k,F,14yrs
+Hash,29,DM,150k,M,17yrs
+Ammarah,23,AI Adminstrator,38k,F,2yrs
+Danish,35,Market Expert,60k,7yrs
+Fatimah,50,Designer,60k,F,16yrs
+Parvathi,43,web developer,30k,F,15yrs
 
 
