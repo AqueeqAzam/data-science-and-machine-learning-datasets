@@ -1,6 +1,6 @@
-Name           Age           Occupation           Salery      Gender     Experience
-Tyson          26            ML Engineer          50000       M           2 yrs
-jack           21            Gamer                12k         M           3 yrs
+Name,Age,Occupation,Salery,Gender,Experience
+Tyson,26,ML Engineer,50000,M,2 yrs
+jack,21,Gamer,12k,M,3 yrs
 Raj            27            Programmer           15k         M           1yrs
 Manish         34            App Developer        18k
 Prity          25            Doctor               20k
@@ -18,3 +18,6 @@ Kartik         30            Developer            38k
 Danish         35            Market Expert        60k
 Fatimah        50            Designer             60k
 Pyush          43            web developer        30k
+Country,Age,Salary,Purchaseed
+France,44.0,72000,No
+Japan,45.0,76000,Yes
