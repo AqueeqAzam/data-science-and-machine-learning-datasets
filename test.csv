@@ -1,7 +1,7 @@
 Name,Age,Occupation,Salery,company,experience
 Tyson,26,ML Engineer, ,google,2yrs
 jack,21,Gamer,60k,vipro,4yrs
-Raj,27,Programmer,65k,amazon,5yrs
+Raj, ,Programmer,65k,amazon,5yrs
 Manish,34,App Developer,85k, ,1yrs
 Prity,25,Doctor,40k,aiims,3yrs
 Steav,55,CEO,200k,apple,12yrs
