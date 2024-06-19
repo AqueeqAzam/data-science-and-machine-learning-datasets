@@ -1,23 +1,23 @@
 Name,Age,Income,Experience
 Tyson,26,500000,2
-jack,21,120000,4
+jack,21,400000,4
 Raj,27,150000,3
-Manish,34,450000,12
-Prity,25,120000,10
+Manish,34,450000,2
+Prity,25,120000,7
 Priya,55,200000,5
-Hasnain,3,500000,22
-Pardeep,27,22000,5
+Hasnain,3,500000,5
+Pardeep,27,200000,5
 Aggarwal,35,35000,6
-Sandeep,33,60000,5
-Bushra,25,27000,3
+Sandeep,33,60000,4
+Bushra,25,600000,3
 Prem,45,100000,6
 Ajay,19,550000,5
 Dimple,26,220000,3
-Hash,29,150000,17
+Hash,29,500000,7
 Ammarah,23,80000,6
 Danish,35,60000,7
-Fatimah,50,60000,16
-Parvathi,43,30000,15
+Fatimah,50,60000,6
+Parvathi,43,30000,5
 
 
 
