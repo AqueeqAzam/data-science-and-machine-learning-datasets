@@ -8998,5 +8998,6 @@ Age,Gender,Body Temperature (°C),Pulse Rate (bpm),Respiration Rate (breaths/min
 35,Male,36.6,91,16,93/71,99,63.5,96,Poor,Borderline
 59,Male,36.2,91,18,138/83,96,68.9,133,Good,Borderline
 62,Male,37.1,81,17,133/84,98,48.2,119,Good,Borderline
+74,Female,36.7,71,18,135/67,98,51.5,110,Good,Healthy
 
 
