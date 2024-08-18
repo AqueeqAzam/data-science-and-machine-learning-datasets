@@ -1,31 +1,9 @@
-[
-  {
-    "profile": "Data Analyst",
-    "questions": [
-      {
-        "question": "What is the difference between descriptive and inferential statistics?",
-        "difficulty": "Easy"
-      },
-      {
-        "question": "How do you handle missing values in a dataset?",
-        "difficulty": "Medium"
-      },
-      ...
-    ]
-  },
-  {
-    "profile": "Software Developer",
-    "questions": [
-      {
-        "question": "What is the difference between monolithic and microservices architecture?",
-        "difficulty": "Medium"
-      },
-      {
-        "question": "How do you implement inheritance in object-oriented programming?",
-        "difficulty": "Hard"
-      },
-      ...
-    ]
-  },
-  ...
-]
+Here is the dataset in a CSV file format, with each profile's questions in a single cell, separated by semicolons:
+"Profile","Questions"
+"Data Analyst","What is the difference between descriptive and inferential statistics?;How do you handle missing values in a dataset?;What is the purpose of data normalization?;..."
+"Software Developer","What is the difference between monolithic and microservices architecture?;How do you implement inheritance in object-oriented programming?;What is the purpose of a design pattern?;..."
+"Marketing Specialist","What is the difference between B2B and B2C marketing?;How do you measure the success of a marketing campaign?;What is the purpose of segmentation in marketing?;..."
+"Mechanical Engineer","What is the difference between static and dynamic loading?;How do you calculate the stress on a material?;What is the purpose of a CAD design?;..."
+"Biologist","What is the difference between mitosis and meiosis?;How do you explain the concept of natural selection?;What is the purpose of a control group in an experiment?;..."
+"Financial Advisor","What is the difference between a stock and a bond?;How do you calculate the return on investment (ROI)?;What is the purpose of diversification in a portfolio?;..."
+Let me know if this works for you!
