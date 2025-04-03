@@ -1,0 +1,501 @@
+House_ID,Type,Price,Construction_Date,Is_Active,Review,Area,Rating
+1,Villa,683072,2014-04-29,,Excellent place!,3219,2.0
+2,Penthouse,167752,2004-09-18,False,Needs renovation.,833,1.0
+3,Apartment,842957,2015-06-24,,Needs renovation.,1656,3.0
+4,Studio,324128,2023-06-15,False,Worth the price.,914,5.0
+5,Apartment,781438,1996-05-13,,Worth the price.,3743,1.0
+6,Villa,461031,2000-09-08,True,Highly recommended.,1015,5.0
+7,Studio,512518,2019-07-23,,Needs renovation.,1529,4.0
+8,Townhouse,925938,2024-02-02,True,Overpriced!,3072,4.0
+9,Studio,168651,2023-10-18,,Overpriced!,1303,4.0
+10,Studio,379143,2015-02-27,True,Worth the price.,567,3.0
+11,Penthouse,756007,2023-08-10,True,Overpriced!,3451,1.0
+12,Villa,554329,2012-05-11,,Highly recommended.,2586,5.0
+13,Townhouse,762878,2016-09-19,False,Needs renovation.,4399,3.0
+14,Villa,511314,1997-12-16,,Worth the price.,3237,3.0
+15,Penthouse,302064,2010-10-11,True,Needs renovation.,2977,1.0
+16,Villa,262488,2004-10-23,True,Highly recommended.,2142,4.0
+17,Studio,276363,2019-10-20,,Highly recommended.,2060,2.0
+18,Villa,582565,2009-06-02,False,Overpriced!,893,5.0
+19,Studio,434164,2019-05-29,,Overpriced!,2400,5.0
+20,Apartment,922337,2009-06-12,,Needs renovation.,2841,5.0
+21,Villa,918233,2009-06-16,False,Overpriced!,667,
+22,Studio,819199,2011-01-05,,Worth the price.,4728,3.0
+23,Studio,738837,2003-01-11,,Needs renovation.,809,3.0
+24,Penthouse,574008,2005-11-24,True,Needs renovation.,4247,2.0
+25,Townhouse,617048,1998-12-20,False,Excellent place!,4088,3.0
+26,Studio,289500,2017-02-24,,Excellent place!,2081,3.0
+27,Penthouse,218252,2005-04-29,,Overpriced!,4063,5.0
+28,Penthouse,690648,2018-07-29,,Overpriced!,807,
+29,Studio,848307,1995-07-05,False,Worth the price.,3254,1.0
+30,Apartment,344187,2013-01-26,,Needs renovation.,1574,4.0
+31,Penthouse,459630,1999-02-19,False,Needs renovation.,2552,5.0
+32,Villa,353365,2001-09-28,,Highly recommended.,4879,3.0
+33,Penthouse,528152,2008-01-27,False,Needs renovation.,2710,5.0
+34,Villa,101109,2001-10-28,True,Overpriced!,1905,5.0
+35,Villa,536719,2024-07-05,False,Highly recommended.,2260,
+36,Townhouse,668910,2005-12-23,True,Excellent place!,2521,5.0
+37,Studio,254700,2015-10-07,True,Worth the price.,2196,3.0
+38,Townhouse,702966,1996-07-07,,Highly recommended.,2569,
+39,Penthouse,930275,2017-08-27,False,Worth the price.,2463,5.0
+40,Townhouse,688932,2002-08-10,,Needs renovation.,3173,4.0
+41,Villa,748434,2010-11-24,False,Worth the price.,4690,5.0
+42,Studio,671929,2003-05-03,False,Overpriced!,2278,4.0
+43,Apartment,744452,2005-09-11,True,Overpriced!,3878,4.0
+44,Villa,641313,2000-04-20,True,Needs renovation.,2527,
+45,Apartment,410003,2005-07-27,False,Excellent place!,3326,
+46,Studio,992886,2001-10-09,,Overpriced!,1999,3.0
+47,Villa,959577,2010-10-26,True,Needs renovation.,3836,
+48,Studio,777095,2003-11-05,True,Excellent place!,2200,3.0
+49,Apartment,382477,1997-08-07,,Highly recommended.,3417,
+50,Townhouse,419277,2017-07-09,True,Worth the price.,1178,5.0
+51,Villa,156417,1995-06-07,,Worth the price.,2063,5.0
+52,Penthouse,489707,2015-05-19,,Excellent place!,2678,2.0
+53,Townhouse,276012,1998-01-14,True,Excellent place!,2143,1.0
+54,Townhouse,241995,2023-03-19,True,Needs renovation.,1690,2.0
+55,Apartment,709272,2000-02-23,False,Needs renovation.,883,3.0
+56,Apartment,876774,2019-04-20,,Overpriced!,1496,1.0
+57,Studio,357208,2011-01-02,True,Highly recommended.,680,5.0
+58,Studio,277745,2020-12-05,,Worth the price.,938,1.0
+59,Studio,413867,2000-04-03,,Highly recommended.,1995,3.0
+60,Penthouse,377341,2002-08-13,True,Excellent place!,661,2.0
+61,Townhouse,112492,2023-12-14,True,Overpriced!,811,5.0
+62,Townhouse,913858,2013-10-15,False,Overpriced!,4187,4.0
+63,Penthouse,135073,2002-05-06,True,Needs renovation.,554,5.0
+64,Apartment,700700,2024-12-24,False,Worth the price.,987,1.0
+65,Apartment,958694,1995-09-27,False,Needs renovation.,3020,1.0
+66,Penthouse,830649,2016-04-19,False,Excellent place!,2321,5.0
+67,Villa,963862,1998-12-10,False,Excellent place!,1720,
+68,Penthouse,274127,2010-08-24,False,Highly recommended.,1163,1.0
+69,Penthouse,309025,2023-04-01,False,Excellent place!,1167,
+70,Apartment,103370,2025-03-22,,Overpriced!,3467,1.0
+71,Apartment,969572,2020-02-14,True,Overpriced!,1458,3.0
+72,Townhouse,587118,2013-12-20,True,Highly recommended.,710,4.0
+73,Studio,265454,2014-06-04,,Needs renovation.,2735,4.0
+74,Apartment,237497,2006-02-21,True,Needs renovation.,4720,5.0
+75,Penthouse,580881,2018-07-12,,Overpriced!,3550,1.0
+76,Apartment,203912,2009-06-05,True,Excellent place!,1133,4.0
+77,Villa,848557,1995-08-25,,Worth the price.,4104,
+78,Penthouse,242660,2000-09-19,True,Highly recommended.,4984,2.0
+79,Studio,323260,2001-03-17,,Worth the price.,2272,1.0
+80,Townhouse,799052,1999-11-24,,Excellent place!,818,2.0
+81,Villa,795936,2003-06-30,True,Needs renovation.,4292,3.0
+82,Studio,548725,2009-11-19,,Worth the price.,4916,
+83,Studio,608383,1999-10-23,False,Worth the price.,2611,1.0
+84,Studio,171357,2014-06-11,,Worth the price.,2947,5.0
+85,Studio,283562,2024-10-18,True,Overpriced!,503,4.0
+86,Penthouse,139231,2019-07-29,True,Excellent place!,2264,2.0
+87,Studio,879470,2017-08-03,True,Needs renovation.,936,1.0
+88,Penthouse,163169,2000-04-18,False,Excellent place!,2189,1.0
+89,Apartment,211042,2001-11-21,False,Overpriced!,4602,1.0
+90,Townhouse,760019,2021-09-20,False,Highly recommended.,2261,3.0
+91,Penthouse,168024,2009-04-02,True,Highly recommended.,512,3.0
+92,Studio,700695,2011-01-25,,Highly recommended.,4970,4.0
+93,Studio,587751,2002-04-15,False,Excellent place!,821,3.0
+94,Townhouse,367212,1999-05-13,,Needs renovation.,1381,3.0
+95,Apartment,535433,2013-05-26,False,Highly recommended.,1157,5.0
+96,Apartment,785708,2009-07-13,True,Needs renovation.,867,4.0
+97,Apartment,654885,2014-03-21,True,Excellent place!,837,3.0
+98,Studio,592743,2009-10-11,False,Excellent place!,4053,3.0
+99,Townhouse,691809,2021-03-25,False,Overpriced!,3461,3.0
+100,Apartment,819986,1996-07-19,True,Highly recommended.,4294,3.0
+101,Apartment,729082,1998-12-16,,Excellent place!,2527,5.0
+102,Townhouse,851094,2009-11-25,,Overpriced!,1971,5.0
+103,Townhouse,584650,2020-05-13,True,Excellent place!,1318,5.0
+104,Apartment,138200,2003-07-27,True,Excellent place!,3758,
+105,Penthouse,961597,1996-12-10,False,Needs renovation.,2427,4.0
+106,Apartment,565830,1996-07-24,True,Needs renovation.,2580,
+107,Villa,208276,2009-12-01,,Overpriced!,4848,
+108,Townhouse,881787,2024-11-27,,Needs renovation.,4199,3.0
+109,Townhouse,515874,2011-12-09,False,Highly recommended.,2019,4.0
+110,Penthouse,462820,2019-08-12,False,Overpriced!,4574,
+111,Villa,524663,2020-12-13,True,Overpriced!,4150,1.0
+112,Villa,856690,1995-10-28,True,Highly recommended.,2129,
+113,Townhouse,855040,2008-11-18,False,Highly recommended.,2394,4.0
+114,Villa,250938,1997-12-11,,Worth the price.,3825,5.0
+115,Apartment,333217,2008-01-31,,Needs renovation.,504,1.0
+116,Villa,342464,2009-04-09,,Overpriced!,4359,5.0
+117,Studio,390966,1998-12-26,False,Excellent place!,1330,3.0
+118,Penthouse,654436,2016-05-05,False,Overpriced!,3408,5.0
+119,Townhouse,524741,2016-07-01,,Needs renovation.,975,2.0
+120,Townhouse,274877,2007-01-16,True,Needs renovation.,1179,5.0
+121,Villa,593201,2022-11-19,False,Needs renovation.,780,4.0
+122,Studio,103095,2020-03-31,True,Excellent place!,3546,2.0
+123,Apartment,410585,2007-04-20,True,Needs renovation.,2475,4.0
+124,Villa,112537,2005-04-01,True,Worth the price.,2779,
+125,Penthouse,255689,1999-09-10,True,Overpriced!,628,1.0
+126,Penthouse,171281,2012-09-18,,Needs renovation.,3065,1.0
+127,Townhouse,570226,2022-07-10,False,Worth the price.,4771,4.0
+128,Penthouse,481776,2013-09-01,,Overpriced!,4682,
+129,Studio,932852,2020-07-23,,Excellent place!,510,
+130,Apartment,756849,2024-01-19,True,Needs renovation.,4260,3.0
+131,Apartment,679143,1998-12-19,,Highly recommended.,3040,5.0
+132,Studio,697920,2021-07-07,True,Highly recommended.,4023,4.0
+133,Studio,528320,2017-06-30,False,Needs renovation.,1173,
+134,Apartment,247229,2016-05-12,False,Highly recommended.,4626,5.0
+135,Villa,547738,2012-01-14,False,Highly recommended.,2611,2.0
+136,Studio,530528,2006-02-17,True,Overpriced!,4718,3.0
+137,Studio,679091,2021-04-17,,Worth the price.,3058,3.0
+138,Apartment,816325,2012-05-05,,Worth the price.,2685,4.0
+139,Townhouse,815137,2011-09-03,False,Excellent place!,567,5.0
+140,Apartment,193572,2005-02-20,,Overpriced!,601,1.0
+141,Penthouse,324691,2002-09-30,False,Highly recommended.,4075,1.0
+142,Villa,360687,2023-12-22,True,Excellent place!,4024,3.0
+143,Penthouse,860394,2018-12-21,,Overpriced!,2808,3.0
+144,Townhouse,503698,2008-08-30,True,Excellent place!,2016,4.0
+145,Apartment,159799,2005-10-01,True,Excellent place!,3460,3.0
+146,Villa,773498,2022-02-02,,Worth the price.,3300,2.0
+147,Villa,577670,2001-07-28,,Overpriced!,4173,1.0
+148,Studio,826580,2006-03-17,False,Highly recommended.,3216,
+149,Studio,770514,2015-01-21,True,Excellent place!,3680,2.0
+150,Townhouse,481646,2001-02-22,True,Highly recommended.,2262,3.0
+151,Penthouse,946054,2024-07-03,False,Overpriced!,3838,2.0
+152,Studio,354923,2007-07-16,True,Worth the price.,2365,4.0
+153,Apartment,706776,1998-10-17,False,Worth the price.,4575,1.0
+154,Townhouse,372653,2010-03-11,False,Overpriced!,1323,1.0
+155,Penthouse,644872,2012-11-01,,Overpriced!,3824,
+156,Townhouse,446352,2004-05-12,True,Excellent place!,674,1.0
+157,Penthouse,746586,2008-11-15,,Excellent place!,4903,1.0
+158,Townhouse,525332,2024-03-27,True,Overpriced!,1755,
+159,Apartment,881423,2010-04-15,True,Excellent place!,4829,3.0
+160,Townhouse,449048,2018-12-10,,Worth the price.,1606,4.0
+161,Studio,707072,2013-11-24,,Needs renovation.,1817,5.0
+162,Villa,315276,2022-08-13,False,Needs renovation.,4086,
+163,Studio,334083,2019-06-14,,Overpriced!,1016,
+164,Studio,659008,2018-06-22,,Worth the price.,4500,2.0
+165,Studio,512330,1997-02-07,,Worth the price.,4389,3.0
+166,Studio,447475,1999-06-23,False,Excellent place!,1789,4.0
+167,Villa,342804,2023-03-02,False,Worth the price.,845,4.0
+168,Studio,293575,2025-01-21,False,Overpriced!,590,1.0
+169,Apartment,263280,2001-01-22,True,Overpriced!,2358,3.0
+170,Penthouse,618258,2004-12-14,True,Worth the price.,4833,3.0
+171,Villa,633115,2021-12-30,False,Highly recommended.,3309,5.0
+172,Studio,204189,2012-05-28,True,Excellent place!,3774,
+173,Penthouse,106779,2021-11-01,,Worth the price.,4127,4.0
+174,Studio,647599,2013-03-09,True,Excellent place!,3624,
+175,Apartment,553267,2003-08-03,False,Worth the price.,1914,1.0
+176,Villa,558100,2020-03-16,True,Worth the price.,4513,
+177,Studio,518562,2022-02-08,True,Highly recommended.,2446,4.0
+178,Villa,413416,2017-11-14,True,Excellent place!,4396,1.0
+179,Townhouse,585721,2000-06-22,False,Needs renovation.,1119,5.0
+180,Studio,311060,2000-06-18,True,Overpriced!,4162,4.0
+181,Villa,787234,2008-05-04,,Highly recommended.,1072,3.0
+182,Townhouse,230606,1996-11-07,True,Worth the price.,1793,3.0
+183,Villa,142165,1997-06-04,,Excellent place!,3404,4.0
+184,Townhouse,586027,2024-09-24,,Worth the price.,2751,5.0
+185,Villa,485168,1996-05-03,,Overpriced!,1394,4.0
+186,Studio,491266,2008-06-06,False,Highly recommended.,623,4.0
+187,Studio,961842,2007-05-16,,Excellent place!,1292,4.0
+188,Townhouse,558957,2020-08-07,True,Needs renovation.,3088,3.0
+189,Penthouse,904379,2009-07-16,True,Overpriced!,2627,5.0
+190,Penthouse,840277,2016-10-30,True,Worth the price.,3937,4.0
+191,Penthouse,191389,1995-10-28,False,Highly recommended.,1633,3.0
+192,Villa,878251,2016-08-30,True,Worth the price.,1353,1.0
+193,Apartment,826118,2003-06-26,,Worth the price.,4307,4.0
+194,Apartment,956952,2018-03-19,True,Worth the price.,3601,2.0
+195,Villa,161570,2023-10-20,False,Overpriced!,3089,1.0
+196,Apartment,959151,2011-03-24,False,Highly recommended.,2964,4.0
+197,Studio,164376,2001-01-19,False,Worth the price.,4285,3.0
+198,Villa,904045,1995-10-01,,Highly recommended.,4392,3.0
+199,Villa,294163,2005-08-16,True,Worth the price.,593,
+200,Apartment,746467,2020-06-14,False,Overpriced!,1860,
+201,Townhouse,139041,2022-10-08,,Worth the price.,2307,5.0
+202,Townhouse,341610,2004-08-26,False,Worth the price.,1555,2.0
+203,Townhouse,480786,2017-11-10,True,Highly recommended.,1550,
+204,Townhouse,421675,2013-10-01,True,Excellent place!,2693,4.0
+205,Studio,896489,1999-03-16,False,Overpriced!,3286,4.0
+206,Penthouse,433858,2021-03-17,False,Worth the price.,4526,4.0
+207,Penthouse,478235,2021-07-29,False,Needs renovation.,2179,3.0
+208,Townhouse,617974,2004-01-11,True,Needs renovation.,3657,5.0
+209,Townhouse,256518,2005-02-27,,Overpriced!,3157,2.0
+210,Townhouse,147046,1999-07-31,False,Excellent place!,3327,3.0
+211,Penthouse,620772,2004-05-19,True,Overpriced!,692,5.0
+212,Penthouse,659160,2010-07-18,True,Highly recommended.,4886,2.0
+213,Villa,719169,2002-03-25,True,Needs renovation.,3382,4.0
+214,Studio,887610,2005-05-26,,Excellent place!,519,5.0
+215,Villa,123528,2016-01-11,False,Overpriced!,1841,5.0
+216,Studio,485932,2018-06-06,False,Highly recommended.,1678,4.0
+217,Apartment,998507,2006-12-22,False,Excellent place!,4999,
+218,Apartment,695393,2022-09-07,True,Excellent place!,3051,1.0
+219,Villa,487315,1998-02-13,True,Overpriced!,810,
+220,Apartment,130471,2021-01-10,True,Excellent place!,2361,3.0
+221,Apartment,449891,2015-11-20,,Needs renovation.,1096,5.0
+222,Studio,918329,2015-11-02,False,Excellent place!,1553,1.0
+223,Apartment,803414,1997-05-03,,Needs renovation.,967,3.0
+224,Apartment,654601,2012-04-24,False,Needs renovation.,3011,5.0
+225,Penthouse,176993,1999-01-29,,Excellent place!,3765,2.0
+226,Villa,297140,2009-09-03,False,Worth the price.,1543,
+227,Penthouse,171970,1997-05-15,True,Highly recommended.,3766,4.0
+228,Studio,484490,2004-06-01,False,Worth the price.,4781,4.0
+229,Studio,664521,1995-06-18,,Overpriced!,2600,5.0
+230,Villa,605855,2017-12-21,,Excellent place!,992,3.0
+231,Studio,553048,1999-05-22,False,Worth the price.,4240,2.0
+232,Townhouse,389358,1995-05-24,,Excellent place!,3000,3.0
+233,Villa,620751,2019-08-31,False,Excellent place!,1752,
+234,Penthouse,785675,2016-06-18,,Worth the price.,1885,3.0
+235,Apartment,997009,2008-06-16,,Highly recommended.,802,
+236,Penthouse,937034,2024-02-22,False,Needs renovation.,638,5.0
+237,Apartment,660623,2014-02-09,,Worth the price.,2997,5.0
+238,Villa,812283,2002-12-06,True,Highly recommended.,1621,2.0
+239,Townhouse,137121,2011-01-20,False,Excellent place!,3124,2.0
+240,Studio,860152,2023-06-13,,Overpriced!,4833,5.0
+241,Studio,645444,1995-09-23,,Worth the price.,3099,4.0
+242,Studio,807631,1996-09-04,True,Overpriced!,1134,1.0
+243,Apartment,648670,1999-09-02,False,Worth the price.,887,
+244,Townhouse,657721,2002-05-05,False,Needs renovation.,933,4.0
+245,Villa,410053,2024-06-16,,Worth the price.,2789,2.0
+246,Villa,270996,2001-02-26,,Worth the price.,839,2.0
+247,Townhouse,711784,1995-10-20,False,Overpriced!,2797,
+248,Penthouse,976826,2001-08-06,True,Excellent place!,4943,1.0
+249,Penthouse,294748,2017-09-16,False,Overpriced!,2015,4.0
+250,Townhouse,751182,2013-05-17,False,Excellent place!,3138,
+251,Penthouse,991421,2008-07-21,,Highly recommended.,4334,
+252,Penthouse,970243,2015-03-23,True,Needs renovation.,1099,3.0
+253,Studio,980701,2002-07-11,,Overpriced!,2240,1.0
+254,Apartment,524297,2022-04-23,,Overpriced!,2942,2.0
+255,Studio,531620,2018-03-17,False,Excellent place!,4510,2.0
+256,Villa,391545,2003-09-23,False,Highly recommended.,3920,3.0
+257,Studio,440629,2006-05-11,True,Excellent place!,3484,1.0
+258,Apartment,281687,2019-05-05,,Overpriced!,3850,
+259,Villa,594959,2020-01-25,False,Excellent place!,2546,1.0
+260,Townhouse,888487,1996-08-30,False,Needs renovation.,2897,3.0
+261,Apartment,882502,2000-08-08,False,Overpriced!,2072,1.0
+262,Penthouse,776648,2023-12-13,False,Needs renovation.,3948,1.0
+263,Villa,850703,1996-11-30,True,Worth the price.,3029,5.0
+264,Townhouse,896914,2015-07-21,False,Needs renovation.,942,1.0
+265,Penthouse,221158,2015-07-26,,Excellent place!,3578,3.0
+266,Townhouse,898634,2016-07-29,,Excellent place!,3920,1.0
+267,Studio,754465,2016-07-26,True,Excellent place!,1807,1.0
+268,Apartment,161252,2022-03-08,True,Excellent place!,3049,5.0
+269,Apartment,702619,2023-07-10,False,Needs renovation.,4929,1.0
+270,Townhouse,586680,1997-04-16,False,Excellent place!,1170,4.0
+271,Apartment,904176,2014-06-25,,Overpriced!,1639,3.0
+272,Penthouse,889465,2014-10-24,False,Highly recommended.,2039,4.0
+273,Apartment,341901,2017-02-18,True,Excellent place!,4841,2.0
+274,Apartment,372937,2010-01-11,,Needs renovation.,4782,2.0
+275,Apartment,378111,2023-07-31,True,Excellent place!,3878,5.0
+276,Apartment,520624,2013-07-02,,Worth the price.,2933,2.0
+277,Apartment,669282,2010-03-31,True,Overpriced!,1702,
+278,Villa,546445,2023-07-26,True,Excellent place!,2283,4.0
+279,Studio,756977,2011-04-15,,Needs renovation.,1997,4.0
+280,Apartment,231911,2019-01-03,False,Highly recommended.,1910,5.0
+281,Villa,296519,2025-04-02,True,Excellent place!,3878,4.0
+282,Villa,107851,2015-12-05,True,Highly recommended.,2211,
+283,Villa,532858,2003-05-12,False,Excellent place!,1545,5.0
+284,Apartment,342332,2004-05-31,,Overpriced!,1722,
+285,Townhouse,107801,2017-06-01,True,Worth the price.,1392,1.0
+286,Villa,654508,2016-05-04,False,Excellent place!,1776,4.0
+287,Townhouse,197406,2008-05-06,True,Worth the price.,4883,
+288,Townhouse,643951,1996-07-23,False,Worth the price.,2842,5.0
+289,Studio,432767,2005-07-18,True,Overpriced!,742,3.0
+290,Apartment,682503,2025-02-17,False,Worth the price.,1419,
+291,Studio,145370,2022-06-07,True,Worth the price.,1807,2.0
+292,Penthouse,663622,2018-04-07,True,Highly recommended.,726,5.0
+293,Townhouse,873411,2010-05-13,True,Worth the price.,4409,2.0
+294,Penthouse,806096,2004-01-09,,Highly recommended.,1514,1.0
+295,Studio,300691,2009-09-30,,Needs renovation.,4096,3.0
+296,Townhouse,832448,2006-06-01,True,Overpriced!,4763,3.0
+297,Apartment,454048,2012-06-30,True,Highly recommended.,688,5.0
+298,Townhouse,153252,2018-06-29,,Excellent place!,2201,2.0
+299,Apartment,301259,2010-11-29,False,Worth the price.,3536,5.0
+300,Studio,954785,2015-06-03,True,Needs renovation.,1181,5.0
+301,Townhouse,860497,2012-07-05,True,Worth the price.,2317,1.0
+302,Townhouse,673134,2015-08-13,False,Worth the price.,2997,4.0
+303,Villa,714879,2020-12-03,True,Needs renovation.,3670,1.0
+304,Villa,330226,2011-04-05,False,Worth the price.,2268,1.0
+305,Studio,913882,2020-02-06,False,Needs renovation.,4539,1.0
+306,Apartment,595069,2021-01-26,True,Overpriced!,1522,
+307,Studio,478179,1995-06-18,False,Overpriced!,1567,4.0
+308,Townhouse,297965,2015-09-23,False,Overpriced!,1116,5.0
+309,Villa,946770,2022-03-17,,Worth the price.,1178,5.0
+310,Apartment,671292,2015-05-26,,Worth the price.,1899,2.0
+311,Studio,531543,2021-10-14,False,Excellent place!,1305,
+312,Townhouse,155920,2024-07-22,False,Worth the price.,3206,3.0
+313,Villa,846674,2011-08-03,,Overpriced!,3998,2.0
+314,Townhouse,760510,2006-12-31,False,Overpriced!,1909,2.0
+315,Penthouse,514513,2005-10-10,False,Highly recommended.,4501,3.0
+316,Penthouse,190277,2022-04-03,False,Overpriced!,2232,2.0
+317,Apartment,420022,2010-09-10,True,Worth the price.,3279,2.0
+318,Studio,234010,2009-02-09,False,Overpriced!,640,1.0
+319,Apartment,512864,1995-05-15,True,Overpriced!,3775,2.0
+320,Penthouse,800026,2006-07-31,,Worth the price.,1776,2.0
+321,Apartment,252097,1998-09-04,False,Needs renovation.,4109,3.0
+322,Studio,823674,2003-04-13,False,Overpriced!,3281,2.0
+323,Townhouse,334701,2003-03-15,,Highly recommended.,1099,4.0
+324,Villa,352171,1996-04-25,False,Excellent place!,765,3.0
+325,Townhouse,427786,2018-04-27,True,Worth the price.,4097,
+326,Townhouse,727564,1999-08-26,True,Worth the price.,4074,5.0
+327,Apartment,160445,2001-03-18,,Needs renovation.,4872,
+328,Apartment,994528,2014-07-24,,Needs renovation.,2847,3.0
+329,Penthouse,500651,2018-03-01,True,Worth the price.,2913,5.0
+330,Studio,983312,2003-01-04,False,Overpriced!,4681,5.0
+331,Villa,426573,2025-02-14,False,Needs renovation.,2123,
+332,Townhouse,782837,2021-09-24,True,Overpriced!,1459,1.0
+333,Villa,643879,2016-12-28,,Worth the price.,572,
+334,Villa,385083,2016-02-15,True,Overpriced!,2263,1.0
+335,Studio,521441,2001-01-18,True,Excellent place!,2473,1.0
+336,Villa,829401,2001-05-13,,Overpriced!,4114,
+337,Townhouse,834201,2007-11-02,True,Highly recommended.,2355,4.0
+338,Villa,653295,2018-12-25,,Needs renovation.,4984,3.0
+339,Apartment,632005,2008-06-23,False,Overpriced!,3532,2.0
+340,Penthouse,823125,2000-11-21,True,Excellent place!,674,3.0
+341,Townhouse,183799,2022-04-23,,Highly recommended.,748,4.0
+342,Studio,395219,2011-09-28,True,Highly recommended.,3966,3.0
+343,Apartment,217289,2022-03-17,True,Worth the price.,2241,2.0
+344,Townhouse,872235,2010-08-30,True,Highly recommended.,1323,4.0
+345,Studio,586313,2010-05-31,False,Worth the price.,1201,1.0
+346,Studio,839328,2022-02-03,,Excellent place!,1705,5.0
+347,Studio,591058,2017-09-08,False,Excellent place!,1087,4.0
+348,Penthouse,170368,1998-10-30,False,Excellent place!,3397,5.0
+349,Penthouse,999937,1997-08-25,True,Excellent place!,3754,4.0
+350,Penthouse,475032,1996-11-28,True,Excellent place!,1946,
+351,Penthouse,942029,2005-06-14,True,Needs renovation.,3156,
+352,Apartment,452874,2018-08-14,True,Excellent place!,4405,5.0
+353,Penthouse,751907,2006-07-21,False,Highly recommended.,4133,5.0
+354,Studio,901445,2009-08-14,,Worth the price.,4997,
+355,Apartment,613690,2011-08-16,False,Overpriced!,4455,5.0
+356,Apartment,991584,2015-08-31,True,Highly recommended.,3424,1.0
+357,Apartment,572610,1997-01-10,False,Worth the price.,2560,3.0
+358,Apartment,356482,2001-07-27,True,Overpriced!,4103,
+359,Townhouse,155991,1999-08-28,False,Highly recommended.,1348,4.0
+360,Penthouse,654445,1997-08-01,False,Needs renovation.,3184,
+361,Penthouse,436465,2015-05-25,False,Highly recommended.,598,3.0
+362,Townhouse,638968,2018-08-22,True,Overpriced!,2756,
+363,Apartment,816273,2011-08-23,True,Highly recommended.,2823,2.0
+364,Apartment,225171,2013-06-28,True,Excellent place!,1021,1.0
+365,Studio,570911,2009-09-30,,Worth the price.,3719,3.0
+366,Villa,635377,1999-12-28,False,Excellent place!,1586,2.0
+367,Penthouse,313703,2008-08-06,,Needs renovation.,4915,5.0
+368,Studio,354210,1998-02-07,True,Highly recommended.,2317,5.0
+369,Townhouse,471435,2018-11-17,False,Overpriced!,761,2.0
+370,Penthouse,491995,1999-04-22,False,Overpriced!,815,5.0
+371,Villa,942653,1997-05-31,,Needs renovation.,1704,2.0
+372,Studio,156514,2003-03-07,False,Highly recommended.,3852,2.0
+373,Townhouse,673519,2001-08-15,False,Needs renovation.,1606,5.0
+374,Studio,542523,2000-06-02,,Highly recommended.,1094,4.0
+375,Apartment,336627,1997-06-26,,Excellent place!,678,1.0
+376,Villa,975479,2014-01-17,,Excellent place!,1964,2.0
+377,Townhouse,582822,2020-02-18,False,Worth the price.,2693,1.0
+378,Studio,899215,2011-05-04,True,Highly recommended.,3948,
+379,Townhouse,479425,2016-12-09,True,Needs renovation.,4447,1.0
+380,Apartment,237455,2014-06-04,False,Highly recommended.,2564,1.0
+381,Studio,814430,2006-09-09,True,Needs renovation.,1555,2.0
+382,Apartment,405123,2023-07-25,True,Excellent place!,4004,3.0
+383,Studio,500511,1996-01-14,False,Highly recommended.,3693,1.0
+384,Studio,828904,2007-12-08,False,Highly recommended.,3147,4.0
+385,Penthouse,941153,2001-05-05,,Excellent place!,574,5.0
+386,Townhouse,975298,1998-11-29,True,Excellent place!,3089,1.0
+387,Studio,388956,2019-06-09,True,Excellent place!,3759,3.0
+388,Studio,297350,2024-05-05,,Excellent place!,4832,5.0
+389,Penthouse,514233,2013-10-15,False,Excellent place!,4566,2.0
+390,Apartment,669068,2000-02-06,True,Excellent place!,1972,2.0
+391,Villa,366609,2002-02-11,False,Overpriced!,997,2.0
+392,Villa,451756,2007-03-24,False,Highly recommended.,2032,4.0
+393,Villa,464671,2022-01-01,,Worth the price.,2799,
+394,Studio,447873,2024-11-13,,Needs renovation.,2506,4.0
+395,Studio,976529,2001-01-18,False,Worth the price.,3462,1.0
+396,Studio,426023,2023-10-04,False,Highly recommended.,670,
+397,Villa,172061,2000-07-06,,Highly recommended.,2968,4.0
+398,Studio,498293,2003-05-22,False,Highly recommended.,2273,3.0
+399,Studio,542203,2004-08-09,,Overpriced!,3916,4.0
+400,Villa,376382,2009-05-03,True,Needs renovation.,3752,2.0
+401,Apartment,480342,2013-02-05,,Excellent place!,3605,2.0
+402,Villa,640976,2006-04-22,True,Overpriced!,1801,1.0
+403,Apartment,476287,1997-01-09,True,Excellent place!,4792,5.0
+404,Townhouse,422025,1995-12-04,True,Worth the price.,4304,5.0
+405,Townhouse,502514,2014-04-04,True,Needs renovation.,4773,4.0
+406,Apartment,558894,2007-04-08,False,Worth the price.,1965,1.0
+407,Studio,479364,1995-04-21,False,Worth the price.,4167,5.0
+408,Townhouse,147793,2017-07-03,,Excellent place!,2784,2.0
+409,Studio,226249,2018-12-26,,Needs renovation.,2507,5.0
+410,Penthouse,405090,2017-02-16,False,Needs renovation.,2058,2.0
+411,Studio,455344,2000-07-01,False,Overpriced!,2464,
+412,Studio,692351,2019-01-12,True,Needs renovation.,514,2.0
+413,Villa,273035,2005-09-19,True,Worth the price.,2754,
+414,Apartment,790279,2020-11-25,False,Overpriced!,3639,
+415,Villa,742391,2004-01-13,,Overpriced!,3507,3.0
+416,Penthouse,780166,2010-10-15,True,Excellent place!,4328,4.0
+417,Apartment,855712,2005-09-06,True,Worth the price.,2877,
+418,Apartment,706004,2016-10-14,,Needs renovation.,3542,1.0
+419,Villa,292870,1998-04-10,True,Excellent place!,4447,5.0
+420,Apartment,234261,2024-12-06,True,Needs renovation.,3427,4.0
+421,Apartment,117789,1995-12-05,False,Excellent place!,1322,1.0
+422,Townhouse,592744,2005-07-21,,Highly recommended.,547,
+423,Townhouse,614610,2014-08-12,,Worth the price.,4524,1.0
+424,Townhouse,228278,2012-12-01,,Highly recommended.,4364,2.0
+425,Apartment,429433,2024-08-01,,Excellent place!,3270,3.0
+426,Apartment,943130,2022-12-25,False,Worth the price.,1435,1.0
+427,Apartment,947918,2005-10-26,,Highly recommended.,2573,2.0
+428,Apartment,189597,2005-08-11,False,Worth the price.,3859,2.0
+429,Apartment,701646,2008-03-02,,Overpriced!,1089,1.0
+430,Apartment,293061,1999-11-07,,Needs renovation.,866,5.0
+431,Apartment,976540,2019-03-06,,Worth the price.,948,4.0
+432,Penthouse,824892,2020-08-22,,Worth the price.,4768,3.0
+433,Townhouse,532729,2014-07-02,,Needs renovation.,1910,3.0
+434,Townhouse,320860,2005-12-06,True,Overpriced!,2872,4.0
+435,Studio,961711,1996-08-01,False,Excellent place!,831,3.0
+436,Villa,996526,2016-12-15,True,Needs renovation.,898,4.0
+437,Townhouse,466545,2024-10-24,,Highly recommended.,3125,4.0
+438,Townhouse,480713,2011-06-28,False,Overpriced!,2067,1.0
+439,Apartment,310702,2019-08-01,False,Overpriced!,4849,3.0
+440,Villa,732585,1996-05-20,,Needs renovation.,4664,3.0
+441,Penthouse,863920,1999-10-26,False,Excellent place!,2151,4.0
+442,Penthouse,431983,2019-05-24,,Overpriced!,4138,4.0
+443,Villa,468563,2008-02-29,True,Overpriced!,3912,4.0
+444,Studio,947850,2024-03-10,True,Overpriced!,3466,2.0
+445,Villa,851989,2013-03-12,False,Worth the price.,4155,3.0
+446,Townhouse,663675,2006-06-27,False,Worth the price.,3234,5.0
+447,Studio,219198,2006-02-28,True,Worth the price.,2239,4.0
+448,Apartment,279768,2014-04-16,False,Needs renovation.,3886,2.0
+449,Penthouse,501600,2009-01-07,False,Highly recommended.,4050,3.0
+450,Studio,923862,2017-01-23,True,Highly recommended.,2424,3.0
+451,Townhouse,640168,2024-09-21,,Overpriced!,2834,4.0
+452,Townhouse,740786,2010-06-05,False,Worth the price.,932,5.0
+453,Apartment,685580,2005-08-07,False,Needs renovation.,2782,5.0
+454,Townhouse,581186,2021-03-05,False,Highly recommended.,4317,2.0
+455,Townhouse,185096,2019-03-23,False,Worth the price.,1461,
+456,Penthouse,607245,2023-05-08,True,Overpriced!,1276,2.0
+457,Villa,314428,2016-11-11,True,Needs renovation.,4958,
+458,Penthouse,894635,2005-06-11,False,Overpriced!,1251,2.0
+459,Apartment,472509,2015-04-09,False,Worth the price.,744,2.0
+460,Townhouse,728038,1998-05-16,False,Worth the price.,3984,5.0
+461,Townhouse,241047,1995-11-11,True,Needs renovation.,2729,1.0
+462,Villa,457834,2003-03-26,True,Highly recommended.,1218,1.0
+463,Penthouse,389555,1999-03-26,,Worth the price.,3550,
+464,Townhouse,758310,2000-12-13,True,Excellent place!,840,5.0
+465,Townhouse,189527,2003-02-13,,Highly recommended.,624,
+466,Apartment,246756,2015-03-14,True,Worth the price.,1475,5.0
+467,Townhouse,774641,2013-09-24,True,Excellent place!,1780,3.0
+468,Townhouse,258729,1998-12-21,True,Overpriced!,1701,2.0
+469,Apartment,602791,2001-11-08,True,Overpriced!,1778,2.0
+470,Studio,404973,2012-06-04,True,Needs renovation.,1139,
+471,Townhouse,441937,2021-03-04,True,Needs renovation.,3184,5.0
+472,Penthouse,395940,2009-01-17,,Excellent place!,746,1.0
+473,Villa,725052,2011-10-03,,Excellent place!,881,1.0
+474,Villa,157808,2018-06-01,False,Needs renovation.,3064,5.0
+475,Townhouse,894797,2004-03-08,True,Overpriced!,3852,3.0
+476,Penthouse,316145,2017-05-29,False,Worth the price.,2819,4.0
+477,Penthouse,288263,2005-06-20,,Highly recommended.,2226,1.0
+478,Apartment,258904,2022-02-24,,Worth the price.,2328,2.0
+479,Apartment,168520,1998-05-04,True,Overpriced!,3244,2.0
+480,Villa,134433,2020-01-13,,Needs renovation.,1794,5.0
+481,Townhouse,771288,2002-08-05,,Overpriced!,3550,1.0
+482,Apartment,578621,2024-08-28,False,Excellent place!,705,4.0
+483,Villa,861049,2000-06-01,False,Highly recommended.,3037,3.0
+484,Studio,158519,2012-10-25,,Highly recommended.,3496,
+485,Studio,182672,2003-11-15,True,Excellent place!,1536,1.0
+486,Townhouse,298782,2009-10-26,False,Overpriced!,2079,1.0
+487,Apartment,370959,2014-08-30,True,Worth the price.,1952,3.0
+488,Studio,888919,2024-03-08,True,Excellent place!,2867,5.0
+489,Studio,530937,2015-11-30,False,Needs renovation.,4387,3.0
+490,Townhouse,933379,2017-01-28,True,Highly recommended.,2766,
+491,Townhouse,236191,2020-05-20,True,Needs renovation.,4192,3.0
+492,Penthouse,828803,2013-02-21,,Worth the price.,3453,3.0
+493,Apartment,118284,2018-01-15,True,Worth the price.,607,2.0
+494,Studio,327503,1999-05-07,False,Worth the price.,3907,
+495,Apartment,353858,1998-11-06,False,Overpriced!,3632,5.0
+496,Penthouse,693476,2016-11-10,,Worth the price.,2399,2.0
+497,Villa,844968,1998-10-19,True,Needs renovation.,2198,
+498,Townhouse,919835,2010-03-11,False,Worth the price.,1699,4.0
+499,Penthouse,210640,2002-10-17,,Highly recommended.,3330,4.0
+500,Townhouse,676462,2006-02-16,False,Excellent place!,4840,1.0
