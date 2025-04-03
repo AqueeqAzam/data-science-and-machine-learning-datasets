@@ -1,7 +1,7 @@
 House_ID,Type,Price,Construction_Date,Is_Active,Review,Area,Rating
 1,Villa,683072,2014-04-29,,Excellent place!,3219,2.0
 2,Penthouse,167752,2004-09-18,False,Needs renovation.,833,1.0
-3,Apartment,NaN ,2015-06-24,,Needs renovation.,1656,3.0
+3,Apartment,,2015-06-24,,Needs renovation.,1656,3.0
 4,Studio,324128,2023-06-15,False,Worth the price.,914,5.0
 5,Apartment,781438,1996-05-13,,Worth the price.,3743,1.0
 6,Villa,461031,2000-09-08,True,Highly recommended.,1015,5.0
@@ -10,7 +10,7 @@ House_ID,Type,Price,Construction_Date,Is_Active,Review,Area,Rating
 9,Studio,168651,2023-10-18,,Overpriced!,1303,4.0
 10,Studio,379143,2015-02-27,True,Worth the price.,567,3.0
 11,Penthouse,756007,2023-08-10,True,Overpriced!,3451,1.0
-12,Villa,NaN,2012-05-11,,Highly recommended.,2586,5.0
+12,Villa,,2012-05-11,,Highly recommended.,2586,5.0
 13,Townhouse,762878,2016-09-19,False,Needs renovation.,4399,3.0
 14,Villa,511314,1997-12-16,,Worth the price.,3237,3.0
 15,Penthouse,302064,2010-10-11,True,Needs renovation.,2977,1.0
