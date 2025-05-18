@@ -1,0 +1,11 @@
+Sentence,Label
+My name is John,B-PER O O B-PER
+I live in New York,O O O B-LOC I-LOC
+Apple is a company,B-ORG O O O
+Barack Obama was born in Hawaii,B-PER I-PER O O O B-LOC
+Google and Microsoft are tech giants,B-ORG O B-ORG O O O
+She traveled from London to Paris,O O O B-LOC O B-LOC
+The headquarters of Tesla is in California,O O O B-ORG O O B-LOC
+Amazon is based in Seattle,B-ORG O O O B-LOC
+I met Elon Musk yesterday,O O B-PER I-PER O
+Facebook was founded by Mark Zuckerberg,B-ORG O O O B-PER I-PER
