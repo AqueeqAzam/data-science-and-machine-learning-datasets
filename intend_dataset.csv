@@ -98,107 +98,106 @@ You only act caring when it benefits you.,0,committed,phone,conflict
 I’m not confident in myself — can we talk it through?,7,long_distance,email,happiness
 I’m scared I’m not enough — can you reassure me?,7,long_distance,email,stress
 I’m open to listening and finding a compromise.,6,long_distance,text,milestone
-Can we just hang out and forget this excuses?,6,breaking_up,phone,separation
-"You’re my everything, but I’m angry about our arguments. 😔",8,long_distance,email,happiness
-I can’t wait to spend with you.,4,married,email,happiness
-I’m only happy when you make it right.,0,early_dating,in_person,happiness
-I deserve better than your arguments.,0,long_distance,email,stress
-I’m tired of your behavior games.,0,committed,email,separation
-Who were you talk with? I’m feeling betrayed.,5,married,email,stress
-"You’re my world, but I’m angry about this. 😔",8,early_dating,in_person,stress
-I’m not sure I want to talk.,3,married,text,milestone
-"I can’t get enough of our relationship, but I need more joy communication. 💬",8,breaking_up,text,separation
-Can we discuss this {delay_time}?,3,married,phone,separation
-You never consider my feelings.,1,long_distance,text,happiness
-I’m feeling confused about this.,3,early_dating,email,milestone
-I can’t wait to share with you.,4,breaking_up,in_person,milestone
-I don’t trust you when you catch up with others.,5,early_dating,in_person,stress
-I’m feeling overwhelmed about this.,3,breaking_up,in_person,conflict
-You make my heart so beautiful.,4,breaking_up,text,separation
-"I cherish our time together, but I’m unimportant about this games. 😩",8,breaking_up,in_person,stress
-"I want to spend with you, but I need you to {positive_action} more. 💕",8,married,text,happiness
-You make my mi amor so special.,4,long_distance,phone,stress
-Can we just talk and forget this behavior?,6,breaking_up,text,milestone
-Let’s work together to fix this.,6,long_distance,text,stress
-"If you loved me, you’d prove it.",0,committed,text,milestone
-"If you really wanted this, you’d make it right.",0,married,email,separation
-"You’re my everything, babe!",4,early_dating,email,separation
-I’m so happy when I’m with you.,4,long_distance,email,milestone
-Let’s share and move forward.,6,committed,email,separation
-I feel insecure when you hang out with them.,5,early_dating,phone,stress
-"If you really loved me, you’d change.",0,early_dating,text,happiness
-I’m sorry about earlier. Let’s share and move on.,6,married,phone,milestone
-"I think our relationship, but I need more joy communication. 💬",8,breaking_up,email,conflict
-This secrets is tearing us apart.,1,married,email,conflict
-Your hiding things is causing so much stress.,1,married,in_person,separation
-I’m feeling confused about this.,3,long_distance,in_person,milestone
-You always lying to manipulate me.,0,early_dating,text,happiness
-You’re always ignoring me and it’s exhausting.,1,committed,email,milestone
-"I’m ignored about this, but I know we can work through it. 💪",8,married,phone,milestone
-I feel unimportant about our relationship.,7,committed,in_person,separation
-I don’t trust you when you blaming me.,0,married,in_person,separation
-I’m not sure I want to sort out.,3,breaking_up,email,separation
-I’m tired of your games games.,0,breaking_up,email,stress
-I’m so unimportant about your excuses.,1,long_distance,in_person,stress
-"I adore you, but I’m frustrated with our attitude. 😤",8,married,in_person,happiness
-You bring world to my life.,4,long_distance,text,happiness
-I feel angry when you catch up with someone else.,5,early_dating,text,milestone
-Why do you always catch up with them instead of me?,5,committed,phone,happiness
-I’m feeling unsure about this.,3,early_dating,text,separation
-Just wondering about day.,2,early_dating,phone,stress
-I don’t want this attitude to come between us.,6,early_dating,phone,stress
-I’m scared I’m not enough for you. Can we talk?,7,long_distance,email,conflict
-You seem really interested in week.,5,committed,in_person,separation
-I need you to know how I really feel.,7,early_dating,phone,happiness
-Can we talk about this {delay_time}?,3,breaking_up,text,separation
-I’m only happy when you change.,0,long_distance,email,conflict
-Give me some breathing room to think.,3,committed,email,separation
-I’m committed to making this work.,6,married,text,separation
-You always ignoring me to get your way.,0,long_distance,text,separation
-I’m so loved with you in my life.,4,long_distance,in_person,happiness
-I feel left out when you catch up with others.,5,early_dating,email,conflict
-What’s new with your week?,2,early_dating,in_person,milestone
-You need to stop shutting down now.,1,early_dating,phone,conflict
-Are you chat with them more than me?,5,married,in_person,milestone
-I can’t get enough of the way you spend.,4,married,in_person,separation
-Any plans for mood?,2,early_dating,text,separation
-I’m feeling off about this.,3,early_dating,in_person,milestone
-"I think our moments together, but I’m hurt about your hiding things. 😕",8,early_dating,in_person,separation
-You’re so distant when you don’t get your way.,0,long_distance,in_person,stress
-You need to do what I say or else.,0,committed,text,milestone
-Give me some space to think about {topic}.,3,early_dating,in_person,conflict
-You make my future so special.,4,married,text,milestone
-I feel off about being vulnerable with you.,7,early_dating,text,milestone
-I’m tired of your attitude games.,0,long_distance,in_person,stress
-You’re just trying to control the situation.,0,committed,email,happiness
-I’m only happy when you prove it.,0,breaking_up,email,happiness
-I don’t like the way you catch up with them.,5,breaking_up,phone,conflict
-I feel like I’m taking a risk by {vulnerable_action}.,7,long_distance,email,stress
-I feel left out when you chill with others.,5,committed,in_person,milestone
-"Let’s chill this weekend, cool?",2,married,phone,milestone
-I love the way you spend.,4,breaking_up,in_person,happiness
+Can we just hang out and forget these excuses?,6,breaking_up,phone,separation
+"You’re my everything, but I’m frustrated about our arguments. 😔",8,long_distance,email,happiness
+I can’t wait to be with you.,4,married,email,happiness
+My happiness depends on you making things right.,0,early_dating,in_person,happiness
+I deserve better than this constant arguing.,0,long_distance,email,stress
+I’m exhausted by your manipulative behavior.,0,committed,email,separation
+Who were you talking to? I feel betrayed.,5,married,email,stress
+"You mean the world to me, but I’m upset about this situation. 😔",8,early_dating,in_person,stress
+I'm not sure if I want to talk right now.,3,married,text,milestone
+"I really enjoy our relationship, but I need more joyful communication. 💬",8,breaking_up,text,separation
+Can we discuss this later?,3,married,phone,separation
+You never take my feelings into account.,1,long_distance,text,happiness
+I’m confused and unsure how to proceed.,3,early_dating,email,milestone
+I can’t wait to share moments with you again.,4,breaking_up,in_person,milestone
+I don’t trust you when you meet up with others.,5,early_dating,in_person,stress
+I'm overwhelmed and stressed about this issue.,3,breaking_up,in_person,conflict
+You make my heart feel so alive.,4,breaking_up,text,separation
+"I value our time together, but I feel ignored by your games. 😩",8,breaking_up,in_person,stress
+"I want to be with you, but I need more positive actions from you. 💕",8,married,text,happiness
+You make my love so meaningful.,4,long_distance,phone,stress
+Can we just talk and move past this behavior?,6,breaking_up,text,milestone
+Let’s work together to resolve this.,6,long_distance,text,stress
+"If you loved me, you’d show it.",0,committed,text,milestone
+"If you truly wanted this, you’d fix it.",0,married,email,separation
+"You're my everything, my love!",4,early_dating,email,separation
+I feel happiest when we're together.,4,long_distance,email,milestone
+Let’s communicate and move forward.,6,committed,email,separation
+I get anxious when you spend time with them.,5,early_dating,phone,stress
+"If you really loved me, you'd change your ways.",0,early_dating,text,happiness
+I apologize for earlier. Let's reconnect and move ahead.,6,married,phone,milestone
+"I care about us, but I need more joyful communication. 💬",8,breaking_up,email,conflict
+These secrets are destroying our bond.,1,married,email,conflict
+Your secrecy is causing so much pain.,1,married,in_person,separation
+I’m confused about what’s going on.,3,long_distance,in_person,milestone
+You lie to control me constantly.,0,early_dating,text,happiness
+You always ignore me, and it hurts.,1,committed,email,milestone
+"I feel unseen, but I believe we can work through this. 💪",8,married,phone,milestone
+I feel insignificant in this relationship.,7,committed,in_person,separation
+I don’t trust you when you blame me.,0,married,in_person,separation
+I'm not ready to sort things out yet.,3,breaking_up,email,separation
+I’m fed up with your manipulative games.,0,breaking_up,email,stress
+I feel unimportant because of your excuses.,1,long_distance,in_person,stress
+"I adore you, but I’m frustrated with your attitude. 😤",8,married,in_person,happiness
+You bring meaning to my life.,4,long_distance,text,happiness
+I feel angry when you hang out with others.,5,early_dating,text,milestone
+Why do you always prioritize them over me?,5,committed,phone,happiness
+I'm uncertain about how to handle this.,3,early_dating,text,separation
+Just checking in — how was your day?,2,early_dating,phone,stress
+I don’t want this negativity to come between us.,6,early_dating,phone,stress
+I’m scared I’m not enough — can we talk about it?,7,long_distance,email,conflict
+You seem overly focused on the week lately.,5,committed,in_person,separation
+I need to express how I truly feel.,7,early_dating,phone,happiness
+Can we talk about this later?,3,breaking_up,text,separation
+My happiness depends on you changing.,0,long_distance,email,conflict
+Give me some space to think.,3,committed,email,separation
+I’m committed to saving this relationship.,6,married,text,separation
+You ignore me whenever you can.,0,long_distance,text,separation
+I feel blessed to have you in my life.,4,long_distance,in_person,happiness
+I feel excluded when you interact with others.,5,early_dating,email,conflict
+What’s new this week?,2,early_dating,in_person,milestone
+You need to stop shutting down and talk.,1,early_dating,phone,conflict
+Are you spending more time chatting with them than with me?,5,married,in_person,milestone
+I love the way we connect.,4,married,in_person,separation
+Any plans for today?,2,early_dating,text,separation
+I’m feeling off about this situation.,3,early_dating,in_person,milestone
+"I cherish our moments, but I’m hurt by your secrecy. 😕",8,early_dating,in_person,separation
+You withdraw when things don’t go your way.,0,long_distance,in_person,stress
+You need to do what I ask or else we’re done.,0,committed,text,milestone
+Give me some space to process this.,3,early_dating,in_person,conflict
+You make my future feel special.,4,married,text,milestone
+I’m hesitant about opening up emotionally.,7,early_dating,text,milestone
+I’m tired of your manipulative behavior.,0,long_distance,in_person,stress
+You’re trying to control the situation again.,0,committed,email,happiness
+I only feel happy when you prove your commitment.,0,breaking_up,email,happiness
+I don’t like how you interact with them.,5,breaking_up,phone,conflict
+I feel vulnerable sharing myself with you.,7,long_distance,email,stress
+I feel left behind when you spend time with friends.,5,committed,in_person,milestone
+"Want to hang out this weekend?",2,married,phone,milestone
+I love how we spend time together.,4,breaking_up,in_person,happiness
 I’m afraid of being hurt. Can you {reassure_action} me?,7,breaking_up,in_person,milestone
-Your secrets is really getting on my nerves.,1,committed,in_person,happiness
-I’m tired of blaming me with you.,1,early_dating,text,stress
-I feel ignored when you chat with someone else.,5,long_distance,email,conflict
-You make every week special.,4,married,phone,separation
-I’m willing to listen and {compromise_action}.,6,long_distance,in_person,conflict
-Let’s chill and see what happens.,2,breaking_up,text,stress
-You never care for my feelings.,1,long_distance,in_person,happiness
-"I want to cherish, but I need some mi amor time to reflect. 🕰️",8,long_distance,phone,milestone
-I’m fed up with your games attitude.,1,early_dating,in_person,milestone
-Let’s share our joy together.,4,married,email,happiness
-You keep ignoring me and it’s selfish.,1,early_dating,text,happiness
+Your lies are really getting to me.,1,committed,in_person,happiness
+I’m tired of always being blamed.,1,early_dating,text,stress
+I feel overlooked when you chat with others.,5,long_distance,email,conflict
+You make every week memorable.,4,married,phone,separation
+I’m open to listening and compromising.,6,long_distance,in_person,conflict
+Let’s relax and see where this goes.,2,breaking_up,text,stress
+You never consider how I feel.,1,long_distance,in_person,happiness
+"I want to cherish this, but I need some time to reflect. 🕰️",8,long_distance,phone,milestone
+I’ve had enough of your manipulative attitude.,1,early_dating,in_person,milestone
+Let’s celebrate our joy together.,4,married,email,happiness
+You keep disregarding me and it hurts.,1,early_dating,text,happiness
 "I’m here for you, and I want us to work through this.",6,early_dating,email,conflict
-Can we discuss this {delay_time}?,3,committed,email,stress
-I love our memories moments.,4,early_dating,email,separation
-What do you think about mood?,2,married,email,milestone
-I’m sorry about earlier. Let’s plan and move on.,6,committed,phone,conflict
-I’m just not in the mood to discuss rn.,3,early_dating,phone,stress
-Let’s put this {conflict_noun} behind us.,6,breaking_up,phone,happiness
-I can’t stand when you ignoring me.,1,long_distance,text,stress
-I feel ignored when you chill with someone else.,5,committed,in_person,milestone
-How’s your mood going?,2,early_dating,phone,separation
+Can we talk about this later?,3,committed,email,stress
+I love our shared memories.,4,early_dating,email,separation
+What are your thoughts about your mood today?,2,married,email,milestone
+I’m sorry about earlier. Let’s plan and move forward.,6,committed,phone,conflict
+I’m just not in the mood to talk right now.,3,early_dating,phone,stress
+Let’s leave this conflict behind us.,6,breaking_up,phone,happiness
+I can’t stand when you ignore me.,1,long_distance,text,stress
+I feel overlooked when you spend time with someone else.,5,committed,in_person,milestone
 You’re making me feel ignored on purpose.,0,long_distance,text,separation
 I feel hurt about you chat with them.,5,married,phone,happiness
 "I want to build, but I need some future reassurance. 🤝",8,married,in_person,happiness
