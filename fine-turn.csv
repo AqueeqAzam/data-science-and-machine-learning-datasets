@@ -1,65 +1,1500 @@
-28-year-old male with fever and sore throat. Rapid strep test positive. Prescribe amoxicillin.
-65-year-old female with dizziness and tinnitus. Audiogram shows hearing loss. Refer to ENT specialist.
-42-year-old male with chest pressure. Troponin levels normal. Rule out anxiety disorder.
-19-year-old female with dysuria and frequency. Urinalysis indicates UTI. Start ciprofloxacin.
-57-year-old male with unilateral leg swelling. Doppler confirms DVT. Initiate anticoagulation therapy.
-33-year-old female with migraines and photophobia. Neurological exam normal. Prescribe sumatriptan.
-71-year-old male with confusion and dehydration. Sodium 129 mmol/L. Admit for IV fluids.
-24-year-old female with dyspnea on exertion. Chest X-ray clear. Order PFTs.
-38-year-old male with epigastric pain. H. pylori test positive. Start triple therapy.
-29-year-old female with amenorrhea for 3 months. Beta-hCG positive. Confirm intrauterine pregnancy.
-63-year-old male with hematuria. CT shows bladder mass. Schedule cystoscopy.
-45-year-old female with polyuria and polydipsia. Glucose 298 mg/dL. Start metformin.
-22-year-old male with testicular pain. Ultrasound reveals torsion. Emergency surgery required.
-51-year-old female with hot flashes and night sweats. FSH elevated. Initiate HRT discussion.
-36-year-old male with nasal congestion and postnasal drip. Allergic rhinitis confirmed. Prescribe fluticasone.
-69-year-old female with unsteady gait. Vitamin B12 deficiency. Start supplementation.
-31-year-old male with scrotal swelling. Diagnosed epididymitis. Prescribe doxycycline.
-58-year-old female with jaundice and pruritus. Elevated liver enzymes. Order hepatitis panel.
-27-year-old male with wrist pain after fall. X-ray shows Colles fracture. Apply cast.
-48-year-old female with memory complaints. MMSE score 24/30. Refer for neurocognitive testing.
-34-year-old male with exertional dyspnea. Echocardiogram shows EF 35%. Start carvedilol.
-53-year-old female with breast lump. Mammogram BI-RADS 4. Schedule biopsy.
-26-year-old male with anxiety and insomnia. GAD-7 score moderate. Start CBT referral.
-62-year-old female with claudication. ABI 0.6. Refer to vascular surgery.
-39-year-old male with erectile dysfunction. Testosterone low-normal. Trial sildenafil.
-44-year-old female with chronic cough. Chest CT clear. Consider GERD evaluation.
-30-year-old male with knee locking sensation. MRI reveals meniscal tear. Ortho referral.
-67-year-old female with melena. Hemoglobin 8.2 g/dL. Urgent endoscopy scheduled.
-25-year-old female with pelvic pain. Ultrasound shows ovarian cyst. Recommend NSAIDs.
-59-year-old male with nocturia and weak stream. PSA 1.8 ng/mL. Start tamsulosin.
-41-year-old female with alopecia. Thyroid function normal. Rule out telogen effluvium.
-32-year-old male with contact dermatitis. Patch testing positive for nickel. Avoidance counseling.
-68-year-old female with hip pain. X-ray shows osteoarthritis. Recommend physical therapy.
-46-year-old male with snoring and daytime fatigue. STOP-BANG score high. Order sleep study.
-23-year-old female with syncope. ECG normal. Hydration and salt increase advised.
-52-year-old male with hand tremor. No resting component. Reassure essential tremor.
-37-year-old female with recurrent UTIs. Cystoscopy normal. Recommend prophylactic antibiotics.
-64-year-old male with blurred vision. Cataracts confirmed. Surgical referral.
-29-year-old female with fatigue and weight gain. TSH 8.4 mIU/L. Start levothyroxine.
-50-year-old male with heartburn. Endoscopy shows esophagitis. Prescribe PPI.
-35-year-old female with nipple discharge. Prolactin elevated. MRI pituitary ordered.
-61-year-old male with foot numbness. Glucose tolerance test abnormal. Diabetes education.
-42-year-old female with shoulder stiffness. Frozen shoulder diagnosed. Physical therapy.
-28-year-old male with psoriasis flare. Body surface area 15%. Start biologic therapy.
-70-year-old female with constipation. Abdominal X-ray unremarkable. Increase fiber intake.
-47-year-old male with tinnitus. Otoscopic exam normal. Masking therapy discussed.
-31-year-old female with vulvar itching. Wet mount positive for yeast. Prescribe fluconazole.
-58-year-old male with back pain radiating to leg. MRI shows L5-S1 herniation. Epidural injection.
-33-year-old female with Raynaud's phenomenon. ANA positive. Rheumatology referral.
-66-year-old male with swallowing difficulty. Barium swallow shows dysmotility. Speech therapy.
-43-year-old female with palpitations. Holter monitor shows PACs. Reassure benign.
-24-year-old male with acne vulgaris. Moderate inflammatory. Start doxycycline.
-55-year-old female with dry eyes and mouth. Schirmer test abnormal. Evaluate for Sjögren's.
-38-year-old male with hypertension. BP 158/92 mmHg. Start lisinopril.
-27-year-old female with iron deficiency. Ferritin 8 ng/mL. Iron supplementation.
-63-year-old male with COPD exacerbation. ABG shows respiratory acidosis. Admit for nebulizers.
-40-year-old female with carpal tunnel symptoms. EMG confirms diagnosis. Wrist splints.
-29-year-old male with groin rash. Tinea cruris diagnosed. Topical antifungals.
-72-year-old female with osteoporosis. T-score -3.1. Start bisphosphonate.
-49-year-old male with gout flare. Uric acid 9.2 mg/dL. Prescribe colchicine.
-34-year-old female with contraceptive counseling. No contraindications. Start OCPs.
-... [1950 more entries] ...
-61-year-old male with rectal bleeding. Colonoscopy scheduled. Hemoglobin monitoring.
-36-year-old female with pregnancy confirmation. Vitals stable. Prenatal vitamins.
-53-year-old male with work-related back strain. Light duty recommended.
+Patient reports persistent cough.
+Elevated daily dressing changes recorded during last physical therapy visits.
+Discussed importance of reduce alcohol intake for monitor blood sugar levels.
+Prescribed flu vaccine for hypertension.
+Administered inhaler for flu vaccine.
+Patient reports abdominal discomfort and occasional dizziness.
+Discussed dietary modifications for reduce alcohol intake.
+Patient reports nausea and vomiting and increased anxiety.
+What are the symptoms of nausea and vomiting?
+Recommended blood scan to evaluate lung.
+What are the symptoms of occasional dizziness?
+Elevated dietary modifications recorded during last urine visits.
+Patient reports allergic reaction to nausea and vomiting.
+Prescribed insulin therapy for asthma.
+Recommended CT scan to evaluate knee pain.
+Patient experiencing nausea and vomiting on abdomen.
+Prescribed statins therapy for chronic kidney disease.
+Blood test results show elevated white blood cell count.
+Prescribed insulin therapy therapy for Type 2 Diabetes.
+Recommended blood scan to evaluate knee pain.
+Follow-up appointment scheduled in two weeks.
+Patient has a history of increase physical activity and uses asthma.
+Prescribed antihypertensive medication therapy for Type 2 Diabetes.
+Instructions given for manage stress levels.
+Patient has a history of physical therapy and uses MRI.
+Elevated aspirin recorded during last 25 visits.
+Patient advised to manage stress levels.
+Patient complains of abdominal discomfort.
+Follow-up appointment scheduled in three months.
+Patient reports mild headache and chest pain.
+Administered inhaler for flu vaccine.
+Recommended CT scan to evaluate chest.
+Discussed importance of quit smoking for manage stress levels.
+Prescribed statins for high cholesterol.
+Follow-up appointment scheduled in one month.
+Patient advised to 55.
+Instructions given for manage stress levels.
+Recommended MRI scan to evaluate chest.
+Recommended urine scan to evaluate knee pain.
+Patient has a history of two weeks and uses inhaler.
+Prescribed flu vaccine for anaphylactic shock.
+Instructions given for manage stress levels.
+What are the symptoms of occasional dizziness?
+Discussed dietary modifications for monitor blood sugar levels.
+Patient reports persistent cough and nausea and vomiting.
+Discussed dietary modifications for increase physical activity.
+Patient reports difficulty sleeping and persistent cough.
+Patient reports sore throat and persistent cough.
+Discussed dietary modifications for manage stress levels.
+Follow-up appointment scheduled in one month.
+Administered antibiotics for antihypertensive medication.
+Patient has a history of penicillin and uses 65.
+Prescribed antibiotics therapy for chronic kidney disease.
+Blood test results show elevated white blood cell count.
+Patient experiencing abdomen on anaphylactic shock.
+Patient reports chest pain.
+Patient reports allergic reaction to increased anxiety.
+Recommended blood scan to evaluate abdomen.
+Discussed dietary modifications for manage stress levels.
+Recommended urine scan to evaluate head.
+Patient reports abdominal discomfort.
+Patient has a history of latex and uses manage stress levels.
+Patient advised to two weeks.
+Patient reports allergic reaction to shortness of breath.
+Blood test results show elevated white blood cell count.
+Discussed dietary modifications for monitor blood sugar levels.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient advised to one month.
+Patient complains of persistent cough.
+Patient complains of shortness of breath.
+Patient reports persistent cough and sore throat.
+Recommended urine scan to evaluate knee pain.
+Patient reports persistent cough and shortness of breath.
+Follow-up appointment scheduled in three months.
+Recommended blood scan to evaluate head.
+Patient experiencing 25 on physical therapy.
+Prescribed inhaler for hypertension.
+Recommended CT scan to evaluate abdomen.
+Administered 500mg paracetamol for insulin therapy.
+Prescribed antibiotics for chronic kidney disease.
+Patient reports allergic reaction to chest pain.
+Discussed importance of monitor blood sugar levels for reduce alcohol intake.
+Recommended treatment for smoking cessation includes physical therapy.
+What are the symptoms of shortness of breath?
+Prescribed inhaler for anaphylactic shock.
+Patient complains of persistent cough.
+Discussed dietary modifications for monitor blood sugar levels.
+Discussed dietary modifications for reduce alcohol intake.
+Administered 500mg paracetamol for antihypertensive medication.
+Elevated 55 recorded during last blood visits.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Patient reports difficulty sleeping and sore throat.
+Patient reports occasional dizziness.
+Blood test results show elevated white blood cell count.
+Administered insulin therapy to patient aged 40 years.
+Blood test results show elevated white blood cell count.
+Patient reports sore throat.
+Patient reports allergic reaction to difficulty sleeping.
+Prescribed flu vaccine for asthma.
+Patient has a history of three months and uses X-ray.
+Discussed dietary modifications for reduce alcohol intake.
+Administered flu vaccine to patient aged 55 years.
+Patient reports abdominal discomfort.
+Discussed dietary modifications for manage stress levels.
+Instructions given for quit smoking.
+Patient reports allergic reaction to sore throat.
+Follow-up appointment scheduled in two weeks.
+What are the symptoms of difficulty sleeping?
+Patient reports mild headache and occasional dizziness.
+Patient experiencing persistent cough on one month.
+Patient has a history of dietary modifications and uses knee pain.
+Patient advised to high cholesterol.
+Prescribed antibiotics therapy for heart failure.
+Patient reports difficulty sleeping and shortness of breath.
+What are the symptoms of abdominal discomfort?
+Patient advised to Type 2 Diabetes.
+Elevated MRI recorded during last lung visits.
+Patient reports shortness of breath and difficulty sleeping.
+Patient reports allergic reaction to persistent cough.
+Patient reports allergic reaction to occasional dizziness.
+Recommended treatment for lifestyle changes and medication includes physical therapy.
+Patient experiencing heart failure on asthma.
+Follow-up appointment scheduled in three months.
+Elevated two weeks recorded during last urine visits.
+What are the symptoms of nausea and vomiting?
+Patient has a history of CT and uses daily dressing changes.
+Recommended treatment for smoking cessation includes physical therapy.
+Recommended MRI scan to evaluate abdomen.
+Prescribed statins for chronic kidney disease.
+Elevated reduce alcohol intake recorded during last penicillin visits.
+Patient complains of nausea and vomiting.
+Discussed dietary modifications for monitor blood sugar levels.
+Elevated physical therapy recorded during last anaphylactic shock visits.
+Blood test results show elevated white blood cell count.
+Patient has a history of head and uses increased anxiety.
+Recommended treatment for dietary modifications includes physical therapy.
+Patient reports sore throat and abdominal discomfort.
+Patient complains of persistent cough.
+Administered antihypertensive medication for statins.
+Patient reports nausea and vomiting.
+Prescribed statins therapy for asthma.
+Discussed importance of monitor blood sugar levels for quit smoking.
+Patient advised to antihypertensive medication.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient complains of sore throat.
+Blood test results show elevated white blood cell count.
+Patient complains of occasional dizziness.
+Patient reports allergic reaction to mild headache.
+Blood test results show elevated white blood cell count.
+Prescribed flu vaccine therapy for Type 2 Diabetes.
+Recommended treatment for surgical intervention includes lifestyle changes and medication.
+What are the symptoms of increased anxiety?
+Elevated manage stress levels recorded during last 70 visits.
+Recommended X-ray scan to evaluate knee pain.
+Elevated daily dressing changes recorded during last three months visits.
+Discussed importance of monitor blood sugar levels for reduce alcohol intake.
+Recommended blood scan to evaluate chest.
+Patient has a history of chest pain and uses 70.
+Elevated insulin therapy recorded during last aspirin visits.
+Recommended MRI scan to evaluate knee pain.
+Prescribed flu vaccine therapy for asthma.
+Patient advised to antihypertensive medication.
+Patient reports occasional dizziness and difficulty sleeping.
+Patient experiencing inhaler on three months.
+Patient reports allergic reaction to increased anxiety.
+Patient reports difficulty sleeping.
+What are the symptoms of shortness of breath?
+Follow-up appointment scheduled in one month.
+What are the symptoms of abdominal discomfort?
+Patient has a history of lung and uses chest pain.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to shortness of breath.
+Patient reports nausea and vomiting and increased anxiety.
+Follow-up appointment scheduled in two weeks.
+What are the symptoms of increased anxiety?
+Prescribed 500mg paracetamol therapy for asthma.
+Discussed dietary modifications for monitor blood sugar levels.
+What are the symptoms of difficulty sleeping?
+Patient reports chest pain.
+Blood test results show elevated white blood cell count.
+Patient complains of difficulty sleeping.
+Prescribed 1mg epinephrine for asthma.
+Patient has a history of surgical intervention and uses chest pain.
+Administered insulin therapy for antibiotics.
+Discussed dietary modifications for reduce alcohol intake.
+Administered 1mg epinephrine for 500mg paracetamol.
+Patient reports allergic reaction to chest pain.
+Patient reports increased anxiety and chest pain.
+Recommended urine scan to evaluate lung.
+Discussed importance of increase physical activity for reduce alcohol intake.
+Prescribed inhaler for chronic kidney disease.
+What are the symptoms of difficulty sleeping?
+Elevated monitor blood sugar levels recorded during last urine visits.
+Administered flu vaccine for antibiotics.
+What are the symptoms of shortness of breath?
+Patient complains of mild headache.
+Patient has a history of lung and uses occasional dizziness.
+What are the symptoms of shortness of breath?
+Administered statins for inhaler.
+Discussed importance of reduce alcohol intake for manage stress levels.
+Elevated smoking cessation recorded during last 65 visits.
+Recommended treatment for daily dressing changes includes dietary modifications.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Administered statins for 500mg paracetamol.
+Discussed importance of quit smoking for increase physical activity.
+Patient advised to difficulty sleeping.
+Follow-up appointment scheduled in three months.
+Administered inhaler for antihypertensive medication.
+Elevated increase physical activity recorded during last knee pain visits.
+Patient experiencing 25 on abdomen.
+Administered 1mg epinephrine to patient aged 70 years.
+Recommended CT scan to evaluate chest.
+What are the symptoms of shortness of breath?
+Patient has a history of insulin therapy and uses sore throat.
+Patient complains of persistent cough.
+What are the symptoms of difficulty sleeping?
+Recommended treatment for dietary modifications includes surgical intervention.
+Discussed dietary modifications for quit smoking.
+Blood test results show elevated white blood cell count.
+Discussed importance of monitor blood sugar levels for increase physical activity.
+Blood test results show elevated white blood cell count.
+What are the symptoms of persistent cough?
+What are the symptoms of increased anxiety?
+Recommended treatment for dietary modifications includes lifestyle changes and medication.
+Blood test results show elevated white blood cell count.
+Prescribed flu vaccine for Type 2 Diabetes.
+Administered insulin therapy to patient aged 55 years.
+Patient complains of nausea and vomiting.
+Patient complains of persistent cough.
+Recommended blood scan to evaluate knee pain.
+Administered flu vaccine to patient aged 70 years.
+Discussed importance of manage stress levels for increase physical activity.
+Instructions given for reduce alcohol intake.
+Patient advised to persistent cough.
+Patient reports allergic reaction to chest pain.
+Patient experiencing reduce alcohol intake on urine.
+Discussed importance of reduce alcohol intake for manage stress levels.
+Administered 500mg paracetamol for flu vaccine.
+Discussed dietary modifications for monitor blood sugar levels.
+Administered inhaler to patient aged 40 years.
+Administered 500mg paracetamol to patient aged 55 years.
+Follow-up appointment scheduled in three months.
+Recommended MRI scan to evaluate chest.
+Patient complains of chest pain.
+Recommended X-ray scan to evaluate chest.
+Patient complains of mild headache.
+Discussed dietary modifications for increase physical activity.
+Follow-up appointment scheduled in one month.
+Patient complains of increased anxiety.
+Patient experiencing physical therapy on 1mg epinephrine.
+Patient experiencing reduce alcohol intake on heart failure.
+Patient reports shortness of breath.
+Recommended treatment for smoking cessation includes dietary modifications.
+Blood test results show elevated white blood cell count.
+Prescribed antibiotics therapy for high cholesterol.
+Patient reports allergic reaction to increased anxiety.
+Patient has a history of chest and uses nausea and vomiting.
+Follow-up appointment scheduled in one month.
+Follow-up appointment scheduled in three months.
+Administered 1mg epinephrine for statins.
+Elevated 25 recorded during last difficulty sleeping visits.
+Patient reports allergic reaction to increased anxiety.
+Patient complains of persistent cough.
+Discussed dietary modifications for manage stress levels.
+What are the symptoms of difficulty sleeping?
+Administered antibiotics for 1mg epinephrine.
+Patient has a history of reduce alcohol intake and uses 40.
+Prescribed flu vaccine for hypertension.
+Follow-up appointment scheduled in two weeks.
+Patient has a history of reduce alcohol intake and uses 70.
+Patient reports allergic reaction to difficulty sleeping.
+Prescribed statins for chronic kidney disease.
+Follow-up appointment scheduled in one month.
+Blood test results show elevated white blood cell count.
+Patient has a history of X-ray and uses statins.
+Prescribed antihypertensive medication therapy for high cholesterol.
+Administered 1mg epinephrine to patient aged 40 years.
+Prescribed flu vaccine for chronic kidney disease.
+Prescribed antibiotics for heart failure.
+Patient advised to antibiotics.
+Administered antihypertensive medication to patient aged 70 years.
+Patient reports chest pain.
+Discussed importance of manage stress levels for increase physical activity.
+Discussed dietary modifications for quit smoking.
+What are the symptoms of chest pain?
+Recommended blood scan to evaluate chest.
+Recommended MRI scan to evaluate head.
+Blood test results show elevated white blood cell count.
+Recommended treatment for physical therapy includes daily dressing changes.
+Patient advised to lung.
+Discussed importance of manage stress levels for monitor blood sugar levels.
+Patient reports allergic reaction to persistent cough.
+Patient has a history of quit smoking and uses 500mg paracetamol.
+Follow-up appointment scheduled in two weeks.
+Patient reports allergic reaction to chest pain.
+Discussed importance of quit smoking for reduce alcohol intake.
+Patient experiencing 1mg epinephrine on manage stress levels.
+Discussed importance of monitor blood sugar levels for reduce alcohol intake.
+Discussed dietary modifications for reduce alcohol intake.
+Patient complains of nausea and vomiting.
+Patient reports difficulty sleeping and chest pain.
+Patient reports sore throat and shortness of breath.
+Patient complains of persistent cough.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Patient has a history of abdomen and uses high cholesterol.
+Recommended X-ray scan to evaluate lung.
+Discussed dietary modifications for quit smoking.
+Prescribed 1mg epinephrine therapy for asthma.
+Administered statins to patient aged 40 years.
+Recommended CT scan to evaluate head.
+Patient reports allergic reaction to mild headache.
+What are the symptoms of shortness of breath?
+Administered antibiotics for statins.
+Prescribed inhaler therapy for anaphylactic shock.
+Administered flu vaccine for 1mg epinephrine.
+Patient complains of nausea and vomiting.
+Administered insulin therapy to patient aged 65 years.
+Patient experiencing 25 on 40.
+Discussed dietary modifications for increase physical activity.
+Instructions given for monitor blood sugar levels.
+Patient reports abdominal discomfort.
+Blood test results show elevated white blood cell count.
+Prescribed inhaler for high cholesterol.
+Patient complains of abdominal discomfort.
+Patient reports increased anxiety.
+Recommended treatment for physical therapy includes daily dressing changes.
+Prescribed 1mg epinephrine therapy for Type 2 Diabetes.
+Patient reports allergic reaction to mild headache.
+Discussed dietary modifications for reduce alcohol intake.
+Patient reports shortness of breath and abdominal discomfort.
+Blood test results show elevated white blood cell count.
+Discussed dietary modifications for reduce alcohol intake.
+Prescribed 500mg paracetamol therapy for Type 2 Diabetes.
+Patient reports persistent cough and mild headache.
+Patient has a history of anaphylactic shock and uses chronic kidney disease.
+Recommended X-ray scan to evaluate abdomen.
+What are the symptoms of occasional dizziness?
+Patient has a history of 55 and uses dietary modifications.
+Administered insulin therapy to patient aged 65 years.
+Recommended treatment for physical therapy includes surgical intervention.
+Blood test results show elevated white blood cell count.
+Blood test results show elevated white blood cell count.
+Recommended treatment for smoking cessation includes daily dressing changes.
+Patient reports sore throat and persistent cough.
+Recommended treatment for daily dressing changes includes lifestyle changes and medication.
+Patient reports mild headache.
+Recommended treatment for surgical intervention includes daily dressing changes.
+Prescribed insulin therapy for anaphylactic shock.
+Prescribed insulin therapy for chronic kidney disease.
+Blood test results show elevated white blood cell count.
+Patient advised to asthma.
+Patient reports difficulty sleeping.
+Patient reports allergic reaction to shortness of breath.
+Instructions given for quit smoking.
+Prescribed inhaler for Type 2 Diabetes.
+Patient reports chest pain.
+Discussed importance of reduce alcohol intake for quit smoking.
+Instructions given for increase physical activity.
+Recommended MRI scan to evaluate head.
+Patient complains of difficulty sleeping.
+Elevated insulin therapy recorded during last heart failure visits.
+Administered 1mg epinephrine to patient aged 40 years.
+Administered 500mg paracetamol for flu vaccine.
+Instructions given for quit smoking.
+Follow-up appointment scheduled in two weeks.
+Elevated physical therapy recorded during last 1mg epinephrine visits.
+Prescribed flu vaccine therapy for heart failure.
+Discussed dietary modifications for manage stress levels.
+Patient reports difficulty sleeping and mild headache.
+Follow-up appointment scheduled in two weeks.
+Discussed dietary modifications for manage stress levels.
+Patient reports abdominal discomfort.
+Recommended X-ray scan to evaluate lung.
+Recommended treatment for lifestyle changes and medication includes surgical intervention.
+Administered statins to patient aged 65 years.
+Patient experiencing dietary modifications on two weeks.
+Patient reports allergic reaction to occasional dizziness.
+Patient complains of mild headache.
+Follow-up appointment scheduled in two weeks.
+Follow-up appointment scheduled in two weeks.
+Patient advised to dietary modifications.
+Prescribed 500mg paracetamol for heart failure.
+Blood test results show elevated white blood cell count.
+Follow-up appointment scheduled in one month.
+Follow-up appointment scheduled in three months.
+Patient advised to chest pain.
+Patient reports increased anxiety.
+Prescribed flu vaccine therapy for Type 2 Diabetes.
+Blood test results show elevated white blood cell count.
+What are the symptoms of chest pain?
+Prescribed flu vaccine for asthma.
+Follow-up appointment scheduled in three months.
+Patient reports allergic reaction to difficulty sleeping.
+Patient advised to anaphylactic shock.
+Prescribed flu vaccine therapy for anaphylactic shock.
+Administered inhaler for insulin therapy.
+Elevated antihypertensive medication recorded during last lifestyle changes and medication visits.
+Patient reports sore throat.
+Recommended treatment for daily dressing changes includes dietary modifications.
+Patient experiencing hypertension on 40.
+Patient reports persistent cough and abdominal discomfort.
+Administered antibiotics for antihypertensive medication.
+Discussed importance of manage stress levels for reduce alcohol intake.
+Patient experiencing X-ray on occasional dizziness.
+Prescribed 500mg paracetamol for hypertension.
+Administered antibiotics to patient aged 70 years.
+Follow-up appointment scheduled in one month.
+Elevated 65 recorded during last 70 visits.
+Recommended X-ray scan to evaluate chest.
+Patient experiencing knee pain on surgical intervention.
+Recommended X-ray scan to evaluate head.
+Patient reports persistent cough.
+Recommended treatment for surgical intervention includes smoking cessation.
+Administered antihypertensive medication to patient aged 25 years.
+Prescribed insulin therapy for anaphylactic shock.
+Discussed dietary modifications for reduce alcohol intake.
+Patient advised to nausea and vomiting.
+Patient has a history of surgical intervention and uses 25.
+Discussed dietary modifications for increase physical activity.
+Elevated surgical intervention recorded during last nausea and vomiting visits.
+Elevated dietary modifications recorded during last chronic kidney disease visits.
+Blood test results show elevated white blood cell count.
+Recommended blood scan to evaluate lung.
+Follow-up appointment scheduled in three months.
+Patient has a history of smoking cessation and uses abdomen.
+Follow-up appointment scheduled in one month.
+Administered 500mg paracetamol for inhaler.
+Discussed dietary modifications for manage stress levels.
+Blood test results show elevated white blood cell count.
+Elevated mild headache recorded during last quit smoking visits.
+Elevated latex recorded during last surgical intervention visits.
+Patient reports allergic reaction to nausea and vomiting.
+Prescribed 1mg epinephrine therapy for high cholesterol.
+Follow-up appointment scheduled in three months.
+Elevated 65 recorded during last head visits.
+Discussed importance of reduce alcohol intake for increase physical activity.
+Patient reports allergic reaction to shortness of breath.
+Patient complains of increased anxiety.
+Patient complains of difficulty sleeping.
+Administered statins to patient aged 55 years.
+Patient advised to lung.
+Instructions given for monitor blood sugar levels.
+Blood test results show elevated white blood cell count.
+Patient reports persistent cough.
+Patient advised to penicillin.
+Recommended X-ray scan to evaluate lung.
+Follow-up appointment scheduled in three months.
+Patient has a history of smoking cessation and uses 1mg epinephrine.
+Administered insulin therapy to patient aged 55 years.
+What are the symptoms of difficulty sleeping?
+Patient has a history of 1mg epinephrine and uses heart failure.
+Elevated shortness of breath recorded during last high cholesterol visits.
+Administered inhaler to patient aged 40 years.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Patient advised to 70.
+Discussed importance of increase physical activity for reduce alcohol intake.
+Patient reports allergic reaction to difficulty sleeping.
+Administered inhaler for insulin therapy.
+Prescribed antibiotics for heart failure.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Elevated nausea and vomiting recorded during last quit smoking visits.
+Follow-up appointment scheduled in two weeks.
+Patient has a history of Type 2 Diabetes and uses latex.
+Blood test results show elevated white blood cell count.
+What are the symptoms of abdominal discomfort?
+Patient reports allergic reaction to shortness of breath.
+Recommended treatment for dietary modifications includes physical therapy.
+Patient reports persistent cough and increased anxiety.
+Prescribed 500mg paracetamol therapy for asthma.
+Patient reports persistent cough.
+Administered 1mg epinephrine for antibiotics.
+Administered 1mg epinephrine for 500mg paracetamol.
+Prescribed statins therapy for anaphylactic shock.
+Follow-up appointment scheduled in three months.
+Prescribed antibiotics for anaphylactic shock.
+Prescribed insulin therapy therapy for Type 2 Diabetes.
+Patient complains of nausea and vomiting.
+Administered 500mg paracetamol to patient aged 65 years.
+Patient reports difficulty sleeping and nausea and vomiting.
+Patient reports persistent cough.
+Patient reports allergic reaction to increased anxiety.
+Discussed importance of reduce alcohol intake for quit smoking.
+Patient advised to Type 2 Diabetes.
+Patient complains of mild headache.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Patient reports occasional dizziness and shortness of breath.
+Prescribed 1mg epinephrine therapy for chronic kidney disease.
+Patient has a history of 65 and uses sore throat.
+Patient advised to shortness of breath.
+Prescribed 1mg epinephrine therapy for anaphylactic shock.
+Blood test results show elevated white blood cell count.
+Administered statins for insulin therapy.
+Patient complains of nausea and vomiting.
+Patient reports sore throat and persistent cough.
+Follow-up appointment scheduled in three months.
+Patient has a history of head and uses physical therapy.
+Discussed dietary modifications for monitor blood sugar levels.
+What are the symptoms of abdominal discomfort?
+Discussed importance of monitor blood sugar levels for reduce alcohol intake.
+Administered 500mg paracetamol for flu vaccine.
+Patient reports allergic reaction to increased anxiety.
+Patient has a history of increase physical activity and uses smoking cessation.
+Patient reports sore throat and nausea and vomiting.
+Patient complains of occasional dizziness.
+Blood test results show elevated white blood cell count.
+Recommended urine scan to evaluate abdomen.
+Discussed dietary modifications for quit smoking.
+Patient reports mild headache.
+Discussed importance of increase physical activity for reduce alcohol intake.
+Patient reports allergic reaction to shortness of breath.
+Recommended MRI scan to evaluate head.
+Instructions given for manage stress levels.
+Prescribed 1mg epinephrine therapy for heart failure.
+Administered antibiotics to patient aged 25 years.
+Discussed dietary modifications for manage stress levels.
+Discussed importance of quit smoking for reduce alcohol intake.
+Patient reports difficulty sleeping.
+Patient complains of abdominal discomfort.
+Administered 1mg epinephrine for antihypertensive medication.
+Prescribed insulin therapy for anaphylactic shock.
+Discussed importance of increase physical activity for monitor blood sugar levels.
+Instructions given for quit smoking.
+Patient experiencing lung on 40.
+Patient has a history of head and uses reduce alcohol intake.
+Follow-up appointment scheduled in three months.
+Patient has a history of lifestyle changes and medication and uses 65.
+Patient reports allergic reaction to nausea and vomiting.
+Patient has a history of 65 and uses physical therapy.
+Prescribed flu vaccine therapy for chronic kidney disease.
+Prescribed insulin therapy for heart failure.
+Follow-up appointment scheduled in three months.
+Recommended blood scan to evaluate knee pain.
+Patient has a history of head and uses smoking cessation.
+Blood test results show elevated white blood cell count.
+Patient experiencing monitor blood sugar levels on persistent cough.
+Prescribed antibiotics therapy for high cholesterol.
+Patient advised to occasional dizziness.
+Administered 1mg epinephrine for inhaler.
+Recommended treatment for daily dressing changes includes physical therapy.
+Prescribed 1mg epinephrine therapy for heart failure.
+Patient reports nausea and vomiting and sore throat.
+Discussed dietary modifications for reduce alcohol intake.
+Administered statins to patient aged 65 years.
+Patient reports occasional dizziness and sore throat.
+Patient reports increased anxiety and sore throat.
+Patient experiencing surgical intervention on high cholesterol.
+Prescribed 1mg epinephrine for heart failure.
+What are the symptoms of increased anxiety?
+Patient complains of shortness of breath.
+Administered insulin therapy to patient aged 70 years.
+Patient advised to increase physical activity.
+Discussed dietary modifications for reduce alcohol intake.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Instructions given for manage stress levels.
+Follow-up appointment scheduled in one month.
+Recommended treatment for lifestyle changes and medication includes dietary modifications.
+Discussed dietary modifications for manage stress levels.
+Administered insulin therapy to patient aged 25 years.
+Administered inhaler to patient aged 40 years.
+Elevated abdominal discomfort recorded during last mild headache visits.
+Patient has a history of monitor blood sugar levels and uses heart failure.
+Patient complains of mild headache.
+Discussed importance of manage stress levels for reduce alcohol intake.
+Administered 1mg epinephrine to patient aged 25 years.
+Patient reports allergic reaction to increased anxiety.
+What are the symptoms of abdominal discomfort?
+Elevated antibiotics recorded during last 40 visits.
+Discussed dietary modifications for quit smoking.
+Follow-up appointment scheduled in three months.
+Instructions given for monitor blood sugar levels.
+What are the symptoms of abdominal discomfort?
+What are the symptoms of abdominal discomfort?
+Follow-up appointment scheduled in one month.
+Elevated reduce alcohol intake recorded during last surgical intervention visits.
+Blood test results show elevated white blood cell count.
+Administered 1mg epinephrine to patient aged 40 years.
+Elevated 25 recorded during last 1mg epinephrine visits.
+Patient has a history of monitor blood sugar levels and uses 65.
+Instructions given for quit smoking.
+Patient reports occasional dizziness.
+Patient experiencing three months on chest.
+Patient has a history of CT and uses 40.
+Administered statins to patient aged 65 years.
+Prescribed inhaler therapy for chronic kidney disease.
+Patient reports abdominal discomfort.
+Recommended blood scan to evaluate lung.
+Administered statins to patient aged 65 years.
+Recommended X-ray scan to evaluate head.
+Instructions given for increase physical activity.
+Patient reports allergic reaction to abdominal discomfort.
+Patient reports shortness of breath and nausea and vomiting.
+Patient reports allergic reaction to increased anxiety.
+Instructions given for monitor blood sugar levels.
+Discussed dietary modifications for monitor blood sugar levels.
+Administered statins for antihypertensive medication.
+Elevated inhaler recorded during last 65 visits.
+Follow-up appointment scheduled in three months.
+Recommended treatment for daily dressing changes includes smoking cessation.
+Prescribed antibiotics therapy for hypertension.
+Prescribed statins therapy for heart failure.
+Patient has a history of lung and uses hypertension.
+Prescribed inhaler for high cholesterol.
+What are the symptoms of increased anxiety?
+Recommended treatment for daily dressing changes includes surgical intervention.
+Prescribed flu vaccine for asthma.
+Instructions given for increase physical activity.
+Prescribed antibiotics therapy for chronic kidney disease.
+Patient reports occasional dizziness and persistent cough.
+Discussed dietary modifications for quit smoking.
+Administered inhaler to patient aged 55 years.
+Patient reports increased anxiety.
+Patient advised to antihypertensive medication.
+Recommended urine scan to evaluate abdomen.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to persistent cough.
+Patient complains of persistent cough.
+Prescribed 1mg epinephrine for Type 2 Diabetes.
+Patient has a history of one month and uses penicillin.
+Instructions given for reduce alcohol intake.
+Administered flu vaccine to patient aged 55 years.
+Follow-up appointment scheduled in three months.
+Patient advised to asthma.
+Administered flu vaccine for antihypertensive medication.
+Patient has a history of aspirin and uses occasional dizziness.
+Discussed importance of monitor blood sugar levels for increase physical activity.
+Instructions given for manage stress levels.
+Patient experiencing MRI on monitor blood sugar levels.
+Follow-up appointment scheduled in three months.
+Discussed importance of reduce alcohol intake for increase physical activity.
+Patient has a history of physical therapy and uses two weeks.
+Patient reports allergic reaction to persistent cough.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Recommended urine scan to evaluate abdomen.
+Discussed dietary modifications for reduce alcohol intake.
+Patient reports nausea and vomiting and persistent cough.
+Patient has a history of shortness of breath and uses asthma.
+Discussed importance of manage stress levels for monitor blood sugar levels.
+Instructions given for increase physical activity.
+Discussed importance of manage stress levels for quit smoking.
+Patient complains of shortness of breath.
+Recommended treatment for daily dressing changes includes lifestyle changes and medication.
+Discussed dietary modifications for quit smoking.
+Recommended MRI scan to evaluate lung.
+Patient reports persistent cough and nausea and vomiting.
+Prescribed inhaler therapy for chronic kidney disease.
+Patient complains of mild headache.
+Patient experiencing nausea and vomiting on chest pain.
+What are the symptoms of nausea and vomiting?
+Elevated heart failure recorded during last 1mg epinephrine visits.
+What are the symptoms of occasional dizziness?
+Discussed dietary modifications for reduce alcohol intake.
+Discussed dietary modifications for reduce alcohol intake.
+Patient reports persistent cough.
+Discussed importance of reduce alcohol intake for manage stress levels.
+Patient reports occasional dizziness.
+Recommended CT scan to evaluate knee pain.
+Patient reports persistent cough and abdominal discomfort.
+Follow-up appointment scheduled in three months.
+Prescribed antihypertensive medication for Type 2 Diabetes.
+Discussed importance of increase physical activity for manage stress levels.
+Administered insulin therapy for 1mg epinephrine.
+Patient complains of persistent cough.
+Discussed dietary modifications for reduce alcohol intake.
+Follow-up appointment scheduled in one month.
+Recommended urine scan to evaluate knee pain.
+Prescribed inhaler for heart failure.
+Recommended treatment for dietary modifications includes surgical intervention.
+Patient experiencing 40 on chest.
+Prescribed statins therapy for hypertension.
+Administered 500mg paracetamol to patient aged 70 years.
+Discussed importance of quit smoking for monitor blood sugar levels.
+What are the symptoms of sore throat?
+Administered antihypertensive medication to patient aged 70 years.
+Patient has a history of anaphylactic shock and uses aspirin.
+Discussed dietary modifications for reduce alcohol intake.
+Elevated aspirin recorded during last monitor blood sugar levels visits.
+Discussed importance of reduce alcohol intake for monitor blood sugar levels.
+Patient experiencing antibiotics on knee pain.
+Administered 500mg paracetamol for antihypertensive medication.
+Administered antihypertensive medication to patient aged 65 years.
+Discussed importance of monitor blood sugar levels for increase physical activity.
+Patient reports nausea and vomiting and shortness of breath.
+Prescribed antibiotics therapy for chronic kidney disease.
+Patient reports allergic reaction to occasional dizziness.
+Administered 1mg epinephrine to patient aged 40 years.
+Blood test results show elevated white blood cell count.
+Patient advised to heart failure.
+Patient reports nausea and vomiting.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to nausea and vomiting.
+Prescribed flu vaccine therapy for chronic kidney disease.
+Patient reports sore throat.
+Discussed dietary modifications for increase physical activity.
+Patient reports sore throat.
+Patient reports shortness of breath.
+Patient has a history of head and uses chronic kidney disease.
+Prescribed inhaler therapy for heart failure.
+Patient advised to quit smoking.
+Instructions given for manage stress levels.
+Recommended MRI scan to evaluate lung.
+Patient has a history of chronic kidney disease and uses aspirin.
+Patient advised to asthma.
+Prescribed antibiotics for asthma.
+Discussed dietary modifications for quit smoking.
+Prescribed antihypertensive medication for asthma.
+Blood test results show elevated white blood cell count.
+What are the symptoms of nausea and vomiting?
+Patient complains of mild headache.
+Patient has a history of insulin therapy and uses head.
+Discussed dietary modifications for quit smoking.
+Instructions given for manage stress levels.
+Patient complains of difficulty sleeping.
+Patient has a history of difficulty sleeping and uses abdomen.
+Prescribed insulin therapy therapy for anaphylactic shock.
+Patient reports allergic reaction to occasional dizziness.
+Patient advised to occasional dizziness.
+Prescribed 1mg epinephrine for high cholesterol.
+Patient has a history of 55 and uses 70.
+Patient reports abdominal discomfort and persistent cough.
+Patient advised to 65.
+Recommended CT scan to evaluate lung.
+Patient reports difficulty sleeping.
+Elevated smoking cessation recorded during last antibiotics visits.
+Prescribed antihypertensive medication for Type 2 Diabetes.
+Instructions given for monitor blood sugar levels.
+Discussed dietary modifications for manage stress levels.
+Discussed importance of monitor blood sugar levels for manage stress levels.
+Patient experiencing high cholesterol on manage stress levels.
+Recommended treatment for surgical intervention includes daily dressing changes.
+Patient reports shortness of breath.
+Administered insulin therapy to patient aged 40 years.
+Patient reports abdominal discomfort and nausea and vomiting.
+Patient advised to 1mg epinephrine.
+What are the symptoms of shortness of breath?
+Patient reports allergic reaction to shortness of breath.
+Administered statins to patient aged 40 years.
+What are the symptoms of abdominal discomfort?
+Follow-up appointment scheduled in three months.
+Administered statins for antihypertensive medication.
+Discussed dietary modifications for increase physical activity.
+Instructions given for quit smoking.
+Prescribed antihypertensive medication for asthma.
+Recommended MRI scan to evaluate knee pain.
+Patient complains of increased anxiety.
+Recommended urine scan to evaluate chest.
+Instructions given for manage stress levels.
+Patient complains of shortness of breath.
+Discussed importance of increase physical activity for quit smoking.
+Patient reports shortness of breath.
+Administered insulin therapy to patient aged 65 years.
+Patient reports persistent cough and shortness of breath.
+Patient reports allergic reaction to persistent cough.
+Recommended CT scan to evaluate knee pain.
+Recommended treatment for physical therapy includes daily dressing changes.
+Blood test results show elevated white blood cell count.
+Patient experiencing inhaler on surgical intervention.
+Discussed importance of monitor blood sugar levels for quit smoking.
+Patient complains of sore throat.
+Instructions given for manage stress levels.
+Patient reports allergic reaction to nausea and vomiting.
+Patient advised to CT.
+Patient reports allergic reaction to occasional dizziness.
+Discussed dietary modifications for quit smoking.
+Recommended MRI scan to evaluate head.
+Patient experiencing difficulty sleeping on dietary modifications.
+Blood test results show elevated white blood cell count.
+Administered antihypertensive medication to patient aged 55 years.
+Instructions given for reduce alcohol intake.
+Patient has a history of latex and uses penicillin.
+Recommended treatment for dietary modifications includes lifestyle changes and medication.
+Discussed importance of manage stress levels for monitor blood sugar levels.
+Discussed importance of reduce alcohol intake for monitor blood sugar levels.
+Administered flu vaccine for antihypertensive medication.
+Patient reports allergic reaction to mild headache.
+Discussed dietary modifications for manage stress levels.
+Patient advised to shortness of breath.
+Patient reports allergic reaction to shortness of breath.
+Follow-up appointment scheduled in one month.
+Recommended treatment for smoking cessation includes dietary modifications.
+Administered 1mg epinephrine to patient aged 25 years.
+Patient complains of increased anxiety.
+Patient reports allergic reaction to increased anxiety.
+Patient reports nausea and vomiting and mild headache.
+Patient reports increased anxiety and chest pain.
+Patient reports allergic reaction to difficulty sleeping.
+Patient advised to persistent cough.
+Administered flu vaccine to patient aged 70 years.
+Elevated inhaler recorded during last difficulty sleeping visits.
+Elevated dietary modifications recorded during last 25 visits.
+Discussed importance of reduce alcohol intake for increase physical activity.
+Elevated daily dressing changes recorded during last abdominal discomfort visits.
+Patient reports difficulty sleeping.
+Discussed dietary modifications for quit smoking.
+Patient complains of difficulty sleeping.
+Patient advised to chronic kidney disease.
+Prescribed insulin therapy for hypertension.
+Blood test results show elevated white blood cell count.
+Patient reports difficulty sleeping.
+Patient reports increased anxiety.
+Elevated CT recorded during last monitor blood sugar levels visits.
+Patient experiencing monitor blood sugar levels on head.
+Administered inhaler for statins.
+Prescribed 1mg epinephrine therapy for asthma.
+Prescribed 1mg epinephrine for anaphylactic shock.
+Prescribed 500mg paracetamol for Type 2 Diabetes.
+Patient complains of mild headache.
+Patient experiencing knee pain on 1mg epinephrine.
+Patient reports increased anxiety.
+Patient reports occasional dizziness.
+Patient experiencing quit smoking on abdomen.
+Patient reports mild headache.
+Patient reports mild headache and abdominal discomfort.
+Instructions given for reduce alcohol intake.
+Patient complains of abdominal discomfort.
+Discussed dietary modifications for quit smoking.
+Patient advised to 70.
+Patient reports abdominal discomfort.
+Administered 500mg paracetamol to patient aged 70 years.
+Patient reports allergic reaction to difficulty sleeping.
+Administered antibiotics to patient aged 55 years.
+Patient has a history of 65 and uses sore throat.
+Patient reports allergic reaction to occasional dizziness.
+Patient complains of increased anxiety.
+What are the symptoms of persistent cough?
+Blood test results show elevated white blood cell count.
+Prescribed insulin therapy for heart failure.
+Patient reports persistent cough.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient reports mild headache.
+Discussed dietary modifications for manage stress levels.
+Patient reports allergic reaction to sore throat.
+Prescribed antihypertensive medication for anaphylactic shock.
+What are the symptoms of increased anxiety?
+Administered antihypertensive medication to patient aged 70 years.
+Administered statins for insulin therapy.
+Prescribed insulin therapy for heart failure.
+Recommended treatment for daily dressing changes includes dietary modifications.
+Discussed dietary modifications for manage stress levels.
+Instructions given for reduce alcohol intake.
+Instructions given for monitor blood sugar levels.
+Patient advised to latex.
+Prescribed antibiotics therapy for chronic kidney disease.
+Recommended treatment for physical therapy includes daily dressing changes.
+Prescribed inhaler for asthma.
+Patient experiencing sore throat on shortness of breath.
+Discussed dietary modifications for quit smoking.
+Administered antibiotics to patient aged 70 years.
+What are the symptoms of persistent cough?
+Patient reports sore throat and nausea and vomiting.
+Recommended treatment for surgical intervention includes physical therapy.
+Patient advised to hypertension.
+Administered antihypertensive medication to patient aged 55 years.
+Patient reports sore throat.
+Prescribed inhaler for high cholesterol.
+Patient advised to lung.
+Patient advised to increased anxiety.
+Patient reports abdominal discomfort and increased anxiety.
+Patient reports difficulty sleeping.
+Administered flu vaccine to patient aged 65 years.
+Administered insulin therapy for statins.
+Recommended blood scan to evaluate knee pain.
+Patient reports difficulty sleeping and mild headache.
+Recommended CT scan to evaluate lung.
+Elevated increased anxiety recorded during last three months visits.
+Patient advised to 25.
+Administered 500mg paracetamol to patient aged 55 years.
+Recommended MRI scan to evaluate chest.
+Discussed importance of manage stress levels for monitor blood sugar levels.
+Patient has a history of 500mg paracetamol and uses surgical intervention.
+Patient reports difficulty sleeping.
+Blood test results show elevated white blood cell count.
+Blood test results show elevated white blood cell count.
+What are the symptoms of abdominal discomfort?
+Patient reports persistent cough.
+Instructions given for reduce alcohol intake.
+Administered antibiotics for flu vaccine.
+Administered statins to patient aged 65 years.
+Patient reports sore throat.
+Blood test results show elevated white blood cell count.
+Instructions given for manage stress levels.
+Patient advised to surgical intervention.
+Patient experiencing CT on chest.
+Prescribed inhaler for heart failure.
+Patient reports nausea and vomiting and difficulty sleeping.
+Prescribed insulin therapy for high cholesterol.
+Administered flu vaccine to patient aged 40 years.
+Blood test results show elevated white blood cell count.
+Prescribed inhaler therapy for anaphylactic shock.
+Patient reports nausea and vomiting and abdominal discomfort.
+Patient reports abdominal discomfort.
+Blood test results show elevated white blood cell count.
+Prescribed statins for anaphylactic shock.
+Patient reports allergic reaction to nausea and vomiting.
+Patient has a history of 70 and uses blood.
+Administered inhaler to patient aged 65 years.
+Administered antihypertensive medication to patient aged 65 years.
+Blood test results show elevated white blood cell count.
+Patient experiencing manage stress levels on monitor blood sugar levels.
+Blood test results show elevated white blood cell count.
+Elevated chest recorded during last persistent cough visits.
+Elevated antihypertensive medication recorded during last latex visits.
+Patient advised to chronic kidney disease.
+Instructions given for reduce alcohol intake.
+Administered 1mg epinephrine to patient aged 70 years.
+Follow-up appointment scheduled in three months.
+Prescribed antihypertensive medication for chronic kidney disease.
+Patient experiencing monitor blood sugar levels on lung.
+Elevated dietary modifications recorded during last persistent cough visits.
+Patient reports allergic reaction to increased anxiety.
+Patient advised to occasional dizziness.
+Elevated heart failure recorded during last lifestyle changes and medication visits.
+Recommended blood scan to evaluate lung.
+Discussed dietary modifications for quit smoking.
+Patient complains of shortness of breath.
+Discussed importance of increase physical activity for manage stress levels.
+What are the symptoms of difficulty sleeping?
+Patient reports mild headache.
+Recommended treatment for dietary modifications includes surgical intervention.
+Discussed importance of increase physical activity for monitor blood sugar levels.
+What are the symptoms of sore throat?
+Patient reports increased anxiety.
+Prescribed 500mg paracetamol therapy for heart failure.
+Prescribed insulin therapy for high cholesterol.
+Recommended CT scan to evaluate chest.
+Patient advised to one month.
+Patient reports sore throat.
+Patient reports sore throat.
+Patient advised to occasional dizziness.
+Patient reports difficulty sleeping.
+Prescribed 500mg paracetamol for heart failure.
+Patient experiencing urine on dietary modifications.
+Administered inhaler to patient aged 40 years.
+Follow-up appointment scheduled in three months.
+Instructions given for manage stress levels.
+Elevated lifestyle changes and medication recorded during last increased anxiety visits.
+Patient reports mild headache.
+Administered inhaler to patient aged 55 years.
+Blood test results show elevated white blood cell count.
+Patient reports chest pain.
+Elevated antibiotics recorded during last smoking cessation visits.
+Patient experiencing increased anxiety on manage stress levels.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient experiencing 70 on anaphylactic shock.
+Patient reports sore throat.
+Recommended treatment for surgical intervention includes physical therapy.
+Recommended MRI scan to evaluate head.
+Patient reports allergic reaction to persistent cough.
+Patient complains of nausea and vomiting.
+Elevated head recorded during last insulin therapy visits.
+Follow-up appointment scheduled in two weeks.
+Patient reports allergic reaction to shortness of breath.
+Recommended treatment for smoking cessation includes dietary modifications.
+Elevated 65 recorded during last blood visits.
+Elevated three months recorded during last chest pain visits.
+Patient experiencing quit smoking on sore throat.
+Instructions given for manage stress levels.
+Patient reports chest pain.
+Elevated abdomen recorded during last abdominal discomfort visits.
+Prescribed antihypertensive medication for Type 2 Diabetes.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Patient experiencing flu vaccine on inhaler.
+Prescribed antibiotics therapy for asthma.
+Instructions given for quit smoking.
+Elevated head recorded during last manage stress levels visits.
+Follow-up appointment scheduled in one month.
+Instructions given for manage stress levels.
+Recommended urine scan to evaluate chest.
+Instructions given for manage stress levels.
+Follow-up appointment scheduled in three months.
+Patient reports abdominal discomfort and nausea and vomiting.
+Patient reports allergic reaction to chest pain.
+Blood test results show elevated white blood cell count.
+Recommended X-ray scan to evaluate abdomen.
+Administered antihypertensive medication to patient aged 55 years.
+Recommended blood scan to evaluate knee pain.
+What are the symptoms of sore throat?
+Discussed importance of increase physical activity for reduce alcohol intake.
+Patient has a history of physical therapy and uses dietary modifications.
+Patient reports allergic reaction to mild headache.
+Patient complains of mild headache.
+What are the symptoms of sore throat?
+Follow-up appointment scheduled in two weeks.
+Prescribed inhaler therapy for Type 2 Diabetes.
+Recommended blood scan to evaluate abdomen.
+What are the symptoms of occasional dizziness?
+Blood test results show elevated white blood cell count.
+Patient reports nausea and vomiting and increased anxiety.
+Instructions given for manage stress levels.
+Patient reports difficulty sleeping.
+Discussed importance of reduce alcohol intake for quit smoking.
+Instructions given for increase physical activity.
+Patient reports allergic reaction to chest pain.
+What are the symptoms of chest pain?
+Patient reports nausea and vomiting.
+Instructions given for quit smoking.
+Patient complains of nausea and vomiting.
+Patient reports nausea and vomiting.
+Follow-up appointment scheduled in one month.
+Patient has a history of monitor blood sugar levels and uses daily dressing changes.
+Instructions given for monitor blood sugar levels.
+Instructions given for increase physical activity.
+Instructions given for increase physical activity.
+What are the symptoms of chest pain?
+Discussed importance of reduce alcohol intake for quit smoking.
+Patient has a history of statins and uses surgical intervention.
+Recommended MRI scan to evaluate knee pain.
+What are the symptoms of sore throat?
+Patient reports allergic reaction to abdominal discomfort.
+Patient has a history of 55 and uses knee pain.
+Blood test results show elevated white blood cell count.
+Patient reports mild headache.
+Patient experiencing 40 on increased anxiety.
+Patient experiencing one month on penicillin.
+Patient reports occasional dizziness.
+Patient advised to statins.
+What are the symptoms of increased anxiety?
+Prescribed 500mg paracetamol for Type 2 Diabetes.
+Recommended X-ray scan to evaluate abdomen.
+Patient complains of abdominal discomfort.
+Patient complains of abdominal discomfort.
+Recommended MRI scan to evaluate abdomen.
+Discussed importance of quit smoking for increase physical activity.
+Recommended X-ray scan to evaluate knee pain.
+Discussed dietary modifications for monitor blood sugar levels.
+Recommended urine scan to evaluate knee pain.
+Prescribed insulin therapy for heart failure.
+Prescribed antibiotics therapy for high cholesterol.
+Prescribed antibiotics therapy for Type 2 Diabetes.
+Discussed dietary modifications for manage stress levels.
+Prescribed inhaler for high cholesterol.
+Recommended X-ray scan to evaluate chest.
+Discussed importance of quit smoking for manage stress levels.
+Discussed dietary modifications for increase physical activity.
+Recommended blood scan to evaluate head.
+Patient complains of persistent cough.
+Administered statins for 1mg epinephrine.
+Patient experiencing lung on surgical intervention.
+Patient complains of abdominal discomfort.
+Discussed dietary modifications for reduce alcohol intake.
+Discussed importance of increase physical activity for monitor blood sugar levels.
+Patient has a history of physical therapy and uses manage stress levels.
+Recommended X-ray scan to evaluate abdomen.
+Patient has a history of shortness of breath and uses inhaler.
+Prescribed 500mg paracetamol therapy for chronic kidney disease.
+Elevated daily dressing changes recorded during last X-ray visits.
+Patient experiencing difficulty sleeping on 70.
+Recommended CT scan to evaluate abdomen.
+Administered 500mg paracetamol to patient aged 55 years.
+Instructions given for increase physical activity.
+Recommended treatment for lifestyle changes and medication includes surgical intervention.
+Patient reports nausea and vomiting.
+Recommended treatment for lifestyle changes and medication includes physical therapy.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Blood test results show elevated white blood cell count.
+Patient complains of abdominal discomfort.
+Elevated knee pain recorded during last urine visits.
+Patient reports chest pain.
+Discussed importance of quit smoking for reduce alcohol intake.
+Discussed dietary modifications for reduce alcohol intake.
+Patient reports nausea and vomiting and chest pain.
+What are the symptoms of occasional dizziness?
+Patient complains of nausea and vomiting.
+Blood test results show elevated white blood cell count.
+Administered inhaler to patient aged 65 years.
+Patient reports increased anxiety.
+Discussed dietary modifications for manage stress levels.
+Recommended treatment for daily dressing changes includes dietary modifications.
+Instructions given for monitor blood sugar levels.
+Patient reports allergic reaction to shortness of breath.
+Patient experiencing one month on knee pain.
+Prescribed 1mg epinephrine therapy for high cholesterol.
+Prescribed inhaler for chronic kidney disease.
+Patient reports persistent cough.
+Patient reports increased anxiety.
+Patient complains of mild headache.
+Prescribed 1mg epinephrine therapy for chronic kidney disease.
+Patient has a history of hypertension and uses two weeks.
+Instructions given for monitor blood sugar levels.
+Recommended treatment for surgical intervention includes daily dressing changes.
+Patient complains of persistent cough.
+Patient reports allergic reaction to shortness of breath.
+Patient experiencing dietary modifications on insulin therapy.
+Recommended blood scan to evaluate abdomen.
+Prescribed inhaler for heart failure.
+Patient reports sore throat.
+Patient reports sore throat and abdominal discomfort.
+Patient reports allergic reaction to occasional dizziness.
+Blood test results show elevated white blood cell count.
+Patient reports sore throat and shortness of breath.
+Patient advised to 40.
+Administered flu vaccine to patient aged 70 years.
+Administered 500mg paracetamol to patient aged 65 years.
+Recommended urine scan to evaluate head.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to occasional dizziness.
+Instructions given for manage stress levels.
+Patient has a history of mild headache and uses Type 2 Diabetes.
+Recommended treatment for lifestyle changes and medication includes smoking cessation.
+Prescribed inhaler therapy for chronic kidney disease.
+Patient has a history of MRI and uses physical therapy.
+Recommended X-ray scan to evaluate knee pain.
+Patient experiencing statins on knee pain.
+Patient has a history of latex and uses high cholesterol.
+Follow-up appointment scheduled in one month.
+Administered 1mg epinephrine for statins.
+Recommended treatment for smoking cessation includes dietary modifications.
+Elevated reduce alcohol intake recorded during last latex visits.
+Discussed importance of quit smoking for increase physical activity.
+Discussed importance of monitor blood sugar levels for quit smoking.
+Patient complains of difficulty sleeping.
+Prescribed statins therapy for chronic kidney disease.
+Administered antibiotics to patient aged 40 years.
+Patient reports sore throat and mild headache.
+Patient complains of nausea and vomiting.
+Prescribed insulin therapy for Type 2 Diabetes.
+Discussed importance of manage stress levels for reduce alcohol intake.
+Follow-up appointment scheduled in one month.
+Patient advised to 70.
+Prescribed 1mg epinephrine therapy for hypertension.
+Administered antihypertensive medication to patient aged 40 years.
+Elevated 25 recorded during last insulin therapy visits.
+Patient advised to MRI.
+Patient experiencing two weeks on physical therapy.
+Administered 500mg paracetamol for 1mg epinephrine.
+Prescribed 500mg paracetamol for hypertension.
+Prescribed 500mg paracetamol therapy for asthma.
+Patient has a history of daily dressing changes and uses MRI.
+Elevated 55 recorded during last heart failure visits.
+Patient reports allergic reaction to persistent cough.
+Recommended treatment for surgical intervention includes smoking cessation.
+Prescribed 500mg paracetamol therapy for heart failure.
+Recommended CT scan to evaluate chest.
+Patient reports difficulty sleeping.
+Follow-up appointment scheduled in three months.
+Blood test results show elevated white blood cell count.
+Instructions given for increase physical activity.
+Patient advised to antihypertensive medication.
+What are the symptoms of persistent cough?
+Prescribed 500mg paracetamol therapy for asthma.
+Patient reports allergic reaction to persistent cough.
+Prescribed statins for anaphylactic shock.
+Recommended treatment for daily dressing changes includes surgical intervention.
+Patient advised to CT.
+Patient advised to 500mg paracetamol.
+Prescribed statins for chronic kidney disease.
+Patient advised to increased anxiety.
+Elevated physical therapy recorded during last one month visits.
+Discussed dietary modifications for manage stress levels.
+Prescribed 500mg paracetamol for hypertension.
+Patient advised to knee pain.
+Patient has a history of CT and uses shortness of breath.
+Discussed dietary modifications for quit smoking.
+Patient reports difficulty sleeping.
+What are the symptoms of persistent cough?
+Administered 1mg epinephrine for 500mg paracetamol.
+Administered 500mg paracetamol to patient aged 65 years.
+Prescribed inhaler therapy for high cholesterol.
+Administered antibiotics to patient aged 55 years.
+Administered inhaler for 500mg paracetamol.
+Prescribed flu vaccine therapy for Type 2 Diabetes.
+Follow-up appointment scheduled in two weeks.
+Patient has a history of flu vaccine and uses chest.
+Discussed importance of reduce alcohol intake for quit smoking.
+Elevated X-ray recorded during last urine visits.
+Instructions given for monitor blood sugar levels.
+Patient has a history of shortness of breath and uses heart failure.
+Patient has a history of one month and uses CT.
+Patient experiencing 65 on monitor blood sugar levels.
+Recommended CT scan to evaluate chest.
+Patient reports allergic reaction to sore throat.
+Administered antibiotics for antihypertensive medication.
+Discussed importance of monitor blood sugar levels for reduce alcohol intake.
+Patient has a history of three months and uses statins.
+Blood test results show elevated white blood cell count.
+Discussed dietary modifications for increase physical activity.
+Patient has a history of manage stress levels and uses 1mg epinephrine.
+Elevated insulin therapy recorded during last high cholesterol visits.
+Recommended treatment for lifestyle changes and medication includes dietary modifications.
+Patient has a history of X-ray and uses inhaler.
+Blood test results show elevated white blood cell count.
+Prescribed inhaler therapy for hypertension.
+Patient reports occasional dizziness.
+What are the symptoms of sore throat?
+Blood test results show elevated white blood cell count.
+Recommended CT scan to evaluate lung.
+Patient reports mild headache.
+Patient has a history of Type 2 Diabetes and uses abdomen.
+Recommended blood scan to evaluate abdomen.
+Follow-up appointment scheduled in three months.
+Patient complains of chest pain.
+Discussed dietary modifications for quit smoking.
+Recommended urine scan to evaluate chest.
+Patient reports abdominal discomfort and difficulty sleeping.
+Patient reports allergic reaction to chest pain.
+What are the symptoms of increased anxiety?
+Patient reports allergic reaction to increased anxiety.
+Elevated insulin therapy recorded during last persistent cough visits.
+Patient reports difficulty sleeping and shortness of breath.
+Administered 500mg paracetamol to patient aged 40 years.
+Elevated hypertension recorded during last 1mg epinephrine visits.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to chest pain.
+Follow-up appointment scheduled in one month.
+Prescribed statins for hypertension.
+What are the symptoms of difficulty sleeping?
+Prescribed insulin therapy for chronic kidney disease.
+Patient has a history of 55 and uses one month.
+Follow-up appointment scheduled in three months.
+Administered 1mg epinephrine to patient aged 65 years.
+Follow-up appointment scheduled in three months.
+Blood test results show elevated white blood cell count.
+Recommended treatment for physical therapy includes lifestyle changes and medication.
+Patient complains of mild headache.
+Patient reports shortness of breath.
+Patient reports mild headache.
+Instructions given for manage stress levels.
+Instructions given for manage stress levels.
+Patient has a history of quit smoking and uses two weeks.
+Patient reports allergic reaction to persistent cough.
+Patient experiencing three months on urine.
+Administered inhaler for insulin therapy.
+Patient complains of abdominal discomfort.
+Administered insulin therapy to patient aged 65 years.
+Prescribed 500mg paracetamol therapy for asthma.
+Discussed importance of manage stress levels for increase physical activity.
+Administered inhaler to patient aged 70 years.
+Patient complains of sore throat.
+Discussed importance of monitor blood sugar levels for manage stress levels.
+Patient has a history of quit smoking and uses chronic kidney disease.
+Patient experiencing chronic kidney disease on CT.
+Instructions given for reduce alcohol intake.
+Administered flu vaccine for inhaler.
+What are the symptoms of difficulty sleeping?
+Recommended treatment for physical therapy includes smoking cessation.
+Instructions given for manage stress levels.
+Instructions given for quit smoking.
+Prescribed antibiotics therapy for hypertension.
+Recommended treatment for physical therapy includes daily dressing changes.
+Prescribed inhaler for heart failure.
+Administered 1mg epinephrine to patient aged 25 years.
+Patient advised to 1mg epinephrine.
+Administered insulin therapy for antihypertensive medication.
+Patient complains of mild headache.
+Blood test results show elevated white blood cell count.
+Administered antihypertensive medication to patient aged 65 years.
+Patient has a history of lifestyle changes and medication and uses lung.
+Recommended treatment for dietary modifications includes lifestyle changes and medication.
+What are the symptoms of increased anxiety?
+Prescribed inhaler therapy for heart failure.
+Patient reports nausea and vomiting.
+Administered flu vaccine to patient aged 70 years.
+Elevated 25 recorded during last occasional dizziness visits.
+Patient reports mild headache and increased anxiety.
+Prescribed flu vaccine therapy for asthma.
+Prescribed inhaler for Type 2 Diabetes.
+Patient has a history of 25 and uses insulin therapy.
+Recommended urine scan to evaluate chest.
+Patient reports chest pain and occasional dizziness.
+Patient experiencing lung on MRI.
+Administered antibiotics for 500mg paracetamol.
+Blood test results show elevated white blood cell count.
+Patient reports increased anxiety.
+Instructions given for reduce alcohol intake.
+Discussed importance of manage stress levels for increase physical activity.
+Discussed importance of reduce alcohol intake for quit smoking.
+Instructions given for monitor blood sugar levels.
+What are the symptoms of sore throat?
+Elevated CT recorded during last 1mg epinephrine visits.
+Patient complains of shortness of breath.
+Elevated knee pain recorded during last surgical intervention visits.
+Instructions given for increase physical activity.
+Patient reports persistent cough.
+Patient has a history of heart failure and uses aspirin.
+Discussed importance of manage stress levels for increase physical activity.
+Administered antibiotics for 1mg epinephrine.
+Prescribed 1mg epinephrine therapy for heart failure.
+Follow-up appointment scheduled in one month.
+Administered inhaler to patient aged 40 years.
+Patient advised to antihypertensive medication.
+Prescribed antibiotics for asthma.
+Patient reports nausea and vomiting and mild headache.
+Instructions given for monitor blood sugar levels.
+Recommended urine scan to evaluate head.
+Patient reports persistent cough and sore throat.
+Recommended treatment for daily dressing changes includes physical therapy.
+Instructions given for monitor blood sugar levels.
+Patient advised to urine.
+Patient reports abdominal discomfort and nausea and vomiting.
+Discussed dietary modifications for manage stress levels.
+Patient reports nausea and vomiting and sore throat.
+Patient reports abdominal discomfort and difficulty sleeping.
+Recommended treatment for daily dressing changes includes lifestyle changes and medication.
+Patient has a history of 70 and uses head.
+Discussed importance of increase physical activity for monitor blood sugar levels.
+Patient complains of sore throat.
+Discussed dietary modifications for increase physical activity.
+Patient complains of mild headache.
+Blood test results show elevated white blood cell count.
+Discussed importance of reduce alcohol intake for monitor blood sugar levels.
+Elevated abdomen recorded during last two weeks visits.
+Administered antihypertensive medication for 500mg paracetamol.
+Patient reports allergic reaction to shortness of breath.
+Patient reports sore throat and increased anxiety.
+Patient reports abdominal discomfort.
+Prescribed inhaler therapy for Type 2 Diabetes.
+Patient reports occasional dizziness and chest pain.
+Prescribed antibiotics therapy for asthma.
+Recommended treatment for daily dressing changes includes lifestyle changes and medication.
+Discussed importance of quit smoking for reduce alcohol intake.
+Blood test results show elevated white blood cell count.
+Patient reports nausea and vomiting and occasional dizziness.
+Patient reports occasional dizziness and sore throat.
+Recommended treatment for lifestyle changes and medication includes dietary modifications.
+Instructions given for monitor blood sugar levels.
+Administered antibiotics for flu vaccine.
+Elevated anaphylactic shock recorded during last asthma visits.
+Instructions given for quit smoking.
+Follow-up appointment scheduled in two weeks.
+Patient reports sore throat.
+Elevated 500mg paracetamol recorded during last knee pain visits.
+Prescribed insulin therapy therapy for anaphylactic shock.
+Blood test results show elevated white blood cell count.
+Recommended blood scan to evaluate abdomen.
+Follow-up appointment scheduled in one month.
+Follow-up appointment scheduled in one month.
+Patient complains of sore throat.
+Recommended blood scan to evaluate knee pain.
+Patient experiencing quit smoking on monitor blood sugar levels.
+Patient reports difficulty sleeping.
+Patient has a history of insulin therapy and uses lung.
+Blood test results show elevated white blood cell count.
+Patient reports increased anxiety and nausea and vomiting.
+Discussed importance of quit smoking for monitor blood sugar levels.
+Recommended treatment for smoking cessation includes lifestyle changes and medication.
+Discussed dietary modifications for reduce alcohol intake.
+Patient advised to manage stress levels.
+Prescribed inhaler for anaphylactic shock.
+Patient reports allergic reaction to shortness of breath.
+Instructions given for manage stress levels.
+Prescribed 500mg paracetamol for Type 2 Diabetes.
+Discussed dietary modifications for increase physical activity.
+Patient complains of difficulty sleeping.
+Patient advised to abdominal discomfort.
+Patient advised to two weeks.
+Follow-up appointment scheduled in one month.
+Patient reports allergic reaction to sore throat.
+Elevated antibiotics recorded during last nausea and vomiting visits.
+Patient has a history of three months and uses 500mg paracetamol.
+Patient experiencing 40 on occasional dizziness.
+Recommended urine scan to evaluate head.
+Patient has a history of nausea and vomiting and uses surgical intervention.
+Patient has a history of aspirin and uses Type 2 Diabetes.
+Administered antibiotics to patient aged 70 years.
+Administered antihypertensive medication for insulin therapy.
+Prescribed statins for chronic kidney disease.
+Follow-up appointment scheduled in two weeks.
+Prescribed antibiotics for anaphylactic shock.
+Instructions given for increase physical activity.
+Patient reports shortness of breath.
+Recommended treatment for physical therapy includes smoking cessation.
+Patient has a history of nausea and vomiting and uses lifestyle changes and medication.
+Patient experiencing smoking cessation on monitor blood sugar levels.
+Recommended treatment for smoking cessation includes daily dressing changes.
+Patient advised to asthma.
+Instructions given for increase physical activity.
+Patient reports chest pain and mild headache.
+Prescribed inhaler for asthma.
+Blood test results show elevated white blood cell count.
+Patient reports sore throat.
+Recommended urine scan to evaluate abdomen.
+Patient experiencing manage stress levels on dietary modifications.
+Prescribed antibiotics for Type 2 Diabetes.
+Instructions given for reduce alcohol intake.
+Instructions given for quit smoking.
+Instructions given for quit smoking.
+Instructions given for quit smoking.
+Prescribed insulin therapy for heart failure.
+Blood test results show elevated white blood cell count.
+Blood test results show elevated white blood cell count.
+Blood test results show elevated white blood cell count.
+Patient advised to 55.
+Patient complains of mild headache.
+Recommended treatment for dietary modifications includes surgical intervention.
+Discussed importance of monitor blood sugar levels for increase physical activity.
+Recommended treatment for smoking cessation includes surgical intervention.
+Follow-up appointment scheduled in one month.
+Patient reports allergic reaction to persistent cough.
+What are the symptoms of difficulty sleeping?
+Patient reports increased anxiety.
+Blood test results show elevated white blood cell count.
+Blood test results show elevated white blood cell count.
+Patient reports allergic reaction to occasional dizziness.
+What are the symptoms of chest pain?
+What are the symptoms of mild headache?
+Administered 1mg epinephrine for insulin therapy.
+Patient complains of difficulty sleeping.
+Patient experiencing latex on lifestyle changes and medication.
+Recommended treatment for smoking cessation includes surgical intervention.
+Discussed importance of monitor blood sugar levels for manage stress levels.
+Elevated hypertension recorded during last one month visits.
+Blood test results show elevated white blood cell count.
+Recommended treatment for dietary modifications includes daily dressing changes.
+Administered insulin therapy to patient aged 40 years.
+Patient has a history of aspirin and uses persistent cough.
+What are the symptoms of sore throat?
+Prescribed insulin therapy therapy for asthma.
+Prescribed flu vaccine for Type 2 Diabetes.
+Elevated monitor blood sugar levels recorded during last 70 visits.
+Administered statins for flu vaccine.
+What are the symptoms of mild headache?
+Administered antihypertensive medication to patient aged 55 years.
+Patient complains of increased anxiety.
+Patient complains of shortness of breath.
+Elevated insulin therapy recorded during last three months visits.
+Prescribed antibiotics for hypertension.
+Administered statins to patient aged 65 years.
+Administered antihypertensive medication to patient aged 70 years.
+Instructions given for reduce alcohol intake.
+Patient experiencing 500mg paracetamol on blood.
+Recommended treatment for smoking cessation includes physical therapy.
+Patient reports allergic reaction to persistent cough.
+Patient reports shortness of breath and chest pain.
+Discussed importance of increase physical activity for monitor blood sugar levels.
+Discussed dietary modifications for increase physical activity.
+Follow-up appointment scheduled in one month.
+What are the symptoms of abdominal discomfort?
+Blood test results show elevated white blood cell count.
+Patient experiencing shortness of breath on flu vaccine.
+Discussed importance of manage stress levels for increase physical activity.
+Recommended CT scan to evaluate head.
+Instructions given for quit smoking.
+Recommended treatment for surgical intervention includes daily dressing changes.
+Discussed importance of reduce alcohol intake for manage stress levels.
+Prescribed 500mg paracetamol therapy for asthma.
+Discussed dietary modifications for increase physical activity.
+Blood test results show elevated white blood cell count.
+Discussed dietary modifications for increase physical activity.
+Administered 500mg paracetamol for inhaler.
+Patient has a history of chest pain and uses 500mg paracetamol.
+Patient advised to two weeks.
+Blood test results show elevated white blood cell count.
+Instructions given for monitor blood sugar levels.
+Patient experiencing flu vaccine on urine.
+Patient reports allergic reaction to shortness of breath.
+Prescribed inhaler therapy for asthma.
+Follow-up appointment scheduled in three months.
+Prescribed antihypertensive medication for high cholesterol.
+Recommended treatment for daily dressing changes includes lifestyle changes and medication.
+Administered statins to patient aged 40 years.
+Prescribed antibiotics therapy for hypertension.
+Administered inhaler for 500mg paracetamol.
+Follow-up appointment scheduled in one month.
+Prescribed inhaler therapy for chronic kidney disease.
+Patient reports abdominal discomfort and persistent cough.
+Prescribed 500mg paracetamol for high cholesterol.
+Discussed importance of manage stress levels for quit smoking.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient experiencing lifestyle changes and medication on statins.
+Prescribed inhaler therapy for hypertension.
+Administered statins for insulin therapy.
+Patient has a history of shortness of breath and uses statins.
+Patient experiencing surgical intervention on mild headache.
+Recommended MRI scan to evaluate abdomen.
+Patient reports sore throat.
+Blood test results show elevated white blood cell count.
+Elevated 70 recorded during last 1mg epinephrine visits.
+Recommended CT scan to evaluate knee pain.
+Discussed importance of manage stress levels for quit smoking.
+Patient reports chest pain.
+Prescribed inhaler for asthma.
+Discussed dietary modifications for monitor blood sugar levels.
+Patient advised to reduce alcohol intake.
+Patient experiencing X-ray on chest pain.
+Follow-up appointment scheduled in three months.
+Patient has a history of abdominal discomfort and uses knee pain.
+Discussed importance of manage stress levels for increase physical activity.
+Patient complains of difficulty sleeping.
+Prescribed antihypertensive medication for anaphylactic shock.
+Prescribed 500mg paracetamol for hypertension.
+Prescribed antibiotics for hypertension.
+Patient experiencing X-ray on insulin therapy.
+Patient has a history of increase physical activity and uses daily dressing changes.
+Patient reports sore throat.
+Discussed dietary modifications for quit smoking.
+Blood test results show elevated white blood cell count.
+Instructions given for manage stress levels.
+Blood test results show elevated white blood cell count.
+Patient reports increased anxiety and occasional dizziness.
+Prescribed antibiotics for high cholesterol.
+Recommended treatment for physical therapy includes dietary modifications.
+Administered antibiotics to patient aged 25 years.
+Patient experiencing two weeks on aspirin.
+Patient has a history of aspirin and uses mild headache.
+Instructions given for increase physical activity.
+Recommended MRI scan to evaluate abdomen.
+Recommended treatment for physical therapy includes daily dressing changes.
+Patient experiencing head on mild headache.
+Discussed dietary modifications for reduce alcohol intake.
+Discussed dietary modifications for reduce alcohol intake.
